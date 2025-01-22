@@ -1,5 +1,6 @@
 VLESS Link:
 vless://034ff80c-d56f-400d-bb00-958d4b6e5cb5@162.159.195.157:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev#IP_CF
+vless://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?security=&type=grpc&serviceName=vless-grpc&encryption=none#IP_CF
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsImFkZCI6IjIxMy4yMS4yMzIuMjQ1IiwicG9ydCI6IjUwMDkiLCJpZCI6ImQ4OThjZTc5LTkwNDgtNDM0OS1hNTM5LWQ1MWQ2YzVhMzBjMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjQ5IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YifQ==
@@ -17,3 +18,4 @@ ss://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTkxLjE
 ss://eyJhZGQiOiIxOTguNDEuMjA5LjcwIiwiYWlkIjowLCJob3N0IjoiY2h1bmNodWFuLmtlaml4aWFvcWk2NjYuc3RvcmUiLCJpZCI6ImU2NTQzMzE5LTA1NzQtNDJhYy1iNzc4LTFjNDMyNWQ2MjZmNSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 ss://034ff80c-d56f-400d-bb00-958d4b6e5cb5@162.159.195.157:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev#
 ss://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTkxLjEwMS4xMzIuMjM2IiwicG9ydCI6IjE5NTMiLCJpZCI6IjgyNjY3NjY4LTRiZmQtNDkwNi1hYjMxLWMyNzQ1ZDBkZTc4ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJwdWxsLmZyZWUudmlkZW8uMTAwMTAuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiJ9
+ss://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?security=&type=grpc&serviceName=vless-grpc&encryption=none#
