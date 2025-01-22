@@ -36,6 +36,6 @@ jobs:
         author_email: "rango_cfs@gmail.com"
         message: "New 🔥❤️‍🔥🎆"
         add: "."
-        push: "https://github.com/rango-cfs/get.git"
+        push: "https://github.com/rango-cfs/NewCollector.git"
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
