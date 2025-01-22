@@ -1,0 +1,41 @@
+name: Update Configs
+permissions: write-all
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # Run every 9 minutes
+    - cron: "*/10 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run:  pip install -r requirements.txt
+
+    - name: Run Python script and save output to file
+      run:  python main.py
+
+    - name: Commit and push files
+      uses: EndBug/add-and-commit@v7
+      with:
+        author_name: "Rango_cfs"
+        author_email: "rango_cfs@gmail.com"
+        message: "New 🔥❤️‍🔥🎆"
+        add: "."
+        push: "https://github.com/rango-cfs/get.git"
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
