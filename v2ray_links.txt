@@ -28,8 +28,6 @@ VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTMuMTEyLjQ5LjE3MSIsInBvcnQiOiI0ODg5NyIsImlkIjoiMzM3NGRlN2ItNjFjYS00ZWY0LWFlOTQtYWQwZTBlNzU5ZGIwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA1In0=
 
 SS Link:
-ss://8b35d07c-95d4-4997-af01-ca88903a8535@ip.diiginet.ir:2083?path=%3Fed%3D2096&security=tls&alpn=h2&encryption=none&host=dl3.diiginet.ir&fp=randomized&type=ws&sni=dl3.diiginet.ir#
-ss://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&encryption=none&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=7554c6ea#
 ss://%40v2rayng_vpnn@91.107.158.170:50487?security=reality&sni=mmd.10.isovpn.shop&fp=chrome&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&type=tcp&flow=xtls-rprx-vision&encryption=none#
 ss://----V2RAXX---@speedtest.net:80?path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX.ir&type=ws#
 ss://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTMuMTEyLjQ5LjE3MSIsInBvcnQiOiI0ODg5NyIsImlkIjoiMzM3NGRlN2ItNjFjYS00ZWY0LWFlOTQtYWQwZTBlNzU5ZGIwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA1In0=
@@ -37,6 +35,7 @@ ss://8b35d07c-95d4-4997-af01-ca88903a8535@ip.diiginet.ir:2083?path=%3Fed%3D2096&
 ss://0355e0b9-f6aa-4da4-89fc-5b1e476b3f8c@95.181.162.108:8880?security=none&encryption=none&headerType=none&type=tcp#
 ss://8da3432a-d4da-4f43-801f-342cda5eae9f@95.164.8.185:8080?security=reality&encryption=none&pbk=MKfDEJAAbEk2S49G67c1m49oFc8BLwd-0jgfiygcOFg&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=7554c6ea#
 ss://Its_VPNCUSTOMIZE@188.114.98.224:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed%3D8080&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#
+ss://15b5b25d-d5dd-4e8c-bfbc-0bd904521a17@hajlab.ucdavis.edu:443?path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2560&security=tls&encryption=none&host=loye.ir&type=ws&sni=hajlab.ucdavis.edu#
 ss://TELEGRAM-NUFiLTER-d8d7b27e0052@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=kazemi21zerofun.com&type=ws#
 %40NUFiLTER+%F0%9F%87%A8%F0%9F%87%AD+ws2</code><br/><br/><tg-emoss://TELEGRAM-NUFiLTER-8ba4737d1ce9@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss2x.ir&type=ws#
 %40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws3</code><br/><br/><tg-emoss://3-TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#
