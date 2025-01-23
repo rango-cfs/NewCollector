@@ -7,9 +7,5 @@
 
 ` https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt`
 
-```html
-<img src="qr_code_v2ray_links.png" alt="QR" width="500" height="600">
 
-```
-
-![عکس](qr_code_v2ray_links.png)
+![عکس](qr_code_v2ray_links.png)[500*500]
