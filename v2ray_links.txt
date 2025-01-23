@@ -31,7 +31,6 @@ vmess://eyJhZGQiOiJzMS5kYi1saW5rMDEudG9wIiwiYWlkIjowLCJob3N0IjoiMTAwLTIwNi0xMDQt
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTMuMTEyLjQ5LjE3MSIsInBvcnQiOiI0ODg5NyIsImlkIjoiMzM3NGRlN2ItNjFjYS00ZWY0LWFlOTQtYWQwZTBlNzU5ZGIwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiMTA1In0=
 
 SS Link:
-ss://41abecd9-8096-4142-a75c-4e1d36d990bd@193.123.60.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#
 ss://%40v2rayng_vpnn@91.107.158.170:50487?security=reality&sni=mmd.10.isovpn.shop&fp=chrome&pbk=90_55z-OU-LDKBHjY-7mgxKiLSud0fU7m5Yo0PjMbBw&type=tcp&flow=xtls-rprx-vision&encryption=none#
 ss://034ff80c-d56f-400d-bb00-958d4b6e5cb5@162.159.195.157:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2&encryption=none&host=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev&fp=chrome&type=ws&sni=xxx.66500-280b-471c-b2b8-d68b7f9960007.workers.dev#
 ss://00e57900-dae1-53d8-8571-74122da5cc07@45.142.213.112:2082?security=&type=grpc&serviceName=vless-grpc&encryption=none#
