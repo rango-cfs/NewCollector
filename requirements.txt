@@ -1,2 +1,5 @@
 requests
 qrcode
+PIL
+Image
+ImageDraw
