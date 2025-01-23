@@ -109,7 +109,7 @@ def main():
                              .replace("%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws7</code><br/><br/><tg-emo", "")
                              .replace("%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws</code><br/><br/><tg-emo", "")
                              .replace("%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws2</code><br/><br/><tg-emo", "")
-                             )
+                             .replace("#", "#IP_CF\n"))
             print(file1) 
             
         file1.close()
