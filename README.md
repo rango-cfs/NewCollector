@@ -5,6 +5,6 @@
 # آموزش
 > خب کار زیاد سختی نداره فقط کافیه لینک زیر رو کپی کنید و همچنین  کیو ار کد رو هم برای شما عزیزان درست کرئم بتونید راحت توی برنامه هایی مثل هیدیفای جای گذاری کنید
 
-> https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt
+` https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt`
 
-[عکس](qr_code_v2ray_links.png)
+![عکس](qr_code_v2ray_links.png)
