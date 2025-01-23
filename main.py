@@ -1,6 +1,7 @@
 import requests
 import re
 import qrcode
+from PIL import Image, ImageDraw
 
 
 def fetch_v2ray_links(channel_url):
