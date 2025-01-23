@@ -86,7 +86,7 @@ def main():
         file1.write("\n")
         file1.write("SS Link:\n")
         for vme in ss_links:
-            file1.writelines(vme[:-2].replace("amp;", "").replace("#", "#\n")
+            file1.writelines(vme[:-2].replace("amp;", "")
                              .replace("</code><br/><br/>•••••••••••••••••••••••••••••••••••<br/>", "\n")
                              .replace("%40NUFiLTER+%F0%9F%87%A8%F0%9F%87%AD+ws4</code><br/><br/><tg-emo", "")
                              .replace("%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws5</code><br/><br/><tg-emo", "")
