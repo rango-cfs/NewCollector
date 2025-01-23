@@ -8,4 +8,4 @@
 ` https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt`
 
 
-`<img src="qr_code_v2ray_links.png" alt="QR" width="200">
+<img src="qr_code_v2ray_links.png" alt="QR" width="200">
