@@ -1,7 +1,5 @@
 import requests
 import re
-import qrcode
-from PIL import Image, ImageDraw
 
 
 def fetch_v2ray_links(channel_url):
@@ -45,13 +43,13 @@ def main():
     if content:
         vless_links, vmess_links =  content
 
-        qr = qrcode.QRCode(version=3, box_size=20, border=10, error_correction=qrcode.constants.ERROR_CORRECT_H)
-        data = "https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt"
+        # qr = qrcode.QRCode(version=3, box_size=20, border=10, error_correction=qrcode.constants.ERROR_CORRECT_H)
+        # data = "https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt"
 
-        qr.add_data(data)
-        qr.make(fit=True)
-        img = qr.make_image(fill_color="black", back_color="white")
-        img.save("qr_code_v2ray_links.png")
+        # qr.add_data(data)
+        # qr.make(fit=True)
+        # img = qr.make_image(fill_color="black", back_color="white")
+        # img.save("qr_code_v2ray_links.png")
 
 
         # save_links_to_file_vless(vless_links, 'v2ray_link_vless.txt')
