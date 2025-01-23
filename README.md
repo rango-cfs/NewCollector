@@ -12,4 +12,4 @@
 
 ```
 
-![عکس](qr_code_v2ray_links.png | width=100)
+![عکس](qr_code_v2ray_links.png | 205*250)
