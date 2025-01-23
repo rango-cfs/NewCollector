@@ -7,4 +7,4 @@
 
 > https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt
 
-[عکس] (qr_code_v2ray_links.png)
+[عکس](qr_code_v2ray_links.png)
