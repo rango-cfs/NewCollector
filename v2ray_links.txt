@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#IP_CF
 vless://0183c3a4-7fb9-41c9-a8f2-3c032a6ad721@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#IP_CF
 vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v02.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#IP_CF
 vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
@@ -28,7 +27,6 @@ vless://TELEGRAM-NUFiLTER-e6da004e2806@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 %40NUFiLTER+%F0%9F%87%B3%F0%9F%87%B1+ws2<br/><br/><tg-emovless://TELEGRAM-NUFiLTER-283f6abfd7b5@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Doogh-nufilter.com&type=ws#IP_CF
 %40NUFiLTER+%F0%9F%87%A6%F0%9F%87%B9ws3<br/><br/><tg-emo
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQyLjAuMTM0LjI0NSIsInBvcnQiOiI0NTAxNyIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJhZGQiOiJzaS4xODA4LnNpdGUiLCJhaWQiOiIwIiwiaG9zdCI6ImNjMi4xODA4LnNpdGUiLCJpZCI6ImQzZDhiNzgxLWYzMGQtNDkwMi04ZWIwLTU4YjFjYTkzNmJlYyIsIm5ldCI6IndzIiwicGF0aCI6IlwvaGdxcXZ3cyIsInBvcnQiOiIzMDAwMiIsInNjeSI6ImF1dG8iLCJzbmkiOiJjYzIuMTgwOC5zaXRlIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNzkuMTI3LjIyOS41NCIsInBvcnQiOiIxODAwMCIsImlkIjoiZmExODk3ZGItMTkyNS00Yzg2LWE0OTUtOTM5YTk1OWFmOTAwIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDkuMTIuMTg4LjIyMiIsInBvcnQiOjUzMTAwLCJpZCI6ImFjMmU2MGMxLWQ2NTEtNGI5My05YWNiLTQ0YmU5ZmIzNzA3ZSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
