@@ -76,6 +76,8 @@ def main():
                             .replace("%40NUFiLTER+%F0%9F%87%A6%F0%9F%87%B9+ws5<br/><br/>", "")
                             .replace("%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws7</code><br/><br/><tg-emo", "")
                             .replace("%40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+TLS</code><br/><br/><tg-emo", "")
+                            .replace("%40NUFiLTER+%F0%9F%87%A6%F0%9F%87%B9ws3<br/><br/><tg-emo", "")
+                            .replace("%40NUFiLTER+%F0%9F%87%B3%F0%9F%87%B1+ws2<br/><br/><tg-emo", "")
                             .replace("#", "#IP_CF\n"))
             print(file1) 
             
