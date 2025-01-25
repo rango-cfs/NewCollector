@@ -38,7 +38,7 @@ def save_links_to_file(vless_links, vmess_links, filename):
 
 
 def main():
-    channel_url  = ['https://t.me/s/IP_CF_Config','https://t.me/s/nufilter']
+    channel_url  = ['https://t.me/s/IP_CF_Config','https://t.me/s/nufilter','https://t.me/s/Tunder_vpn']
     content = fetch_v2ray_links(channel_url)
     if content:
         vless_links, vmess_links =  content
