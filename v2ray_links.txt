@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
 vless://0295517a-ad9f-4b35-a811-2adec4133482@hajlab.ucdavis.edu:443?security=tls&type=ws&headerType=&path=%2F&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v04.feadlenetworkv2sa.net&sni=hajlab.ucdavis.edu&fp=chrome#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?security=&type=ws&path=/?ed%3D2048&host=mmd.ir&encryption=none#IP_CF
