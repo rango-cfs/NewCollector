@@ -1,5 +1,4 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.171.91:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.171.91:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.40.120:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
