@@ -23,3 +23,4 @@ vless://TELEGRAM-NUFiLTER-b2825889d86d@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 vless://TELEGRAM-NUFiLTER-06d2cb1deae4@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss17x.iR&type=ws#IP_CF
 
 VMESS Link:
+vmess://eyJhZGQiOiI4Ny4xMDcuMTYzLjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmYzMzg5MjYtZTMyMy00M2JkLThkYzgtYjQxZjI5YzQ5Nzk4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzE5OCIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
