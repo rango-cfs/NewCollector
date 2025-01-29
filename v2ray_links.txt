@@ -1,6 +1,7 @@
 VLESS Link:
 vless://029d490c-4f4e-4d57-b4cb-266edeebda07@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ItCHy-DEbT.oNeeat.cO.&type=ws#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
+vless://%40v2rayng_vpnn@speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-32af491c0f2e@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Sharebazii.com&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-47e99736c135@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss6x.ir&fp=chrome&type=ws&sni=mio.splashthat.com#IP_CF
 vless://TELEGRAM-NUFiLTER-17564217395d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#IP_CF
