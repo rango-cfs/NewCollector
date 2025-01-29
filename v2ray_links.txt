@@ -1,5 +1,4 @@
 VLESS Link:
-vless://029d490c-4f4e-4d57-b4cb-266edeebda07@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ItCHy-DEbT.oNeeat.cO.&type=ws#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.237.50:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
 vless://%40v2boxvpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
