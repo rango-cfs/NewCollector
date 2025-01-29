@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://029d490c-4f4e-4d57-b4cb-266edeebda07@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ItCHy-DEbT.oNeeat.cO.&type=ws#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-32af491c0f2e@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Sharebazii.com&type=ws#IP_CF
@@ -25,3 +24,4 @@ vless://TELEGRAM-NUFiLTER-06d2cb1deae4@NUFiLTER.fastly80-2.hosting-ip.com:80?pat
 VMESS Link:
 vmess://eyJhZGQiOiI4Ny4xMDcuMTYzLjQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNmYzMzg5MjYtZTMyMy00M2JkLThkYzgtYjQxZjI5YzQ5Nzk4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzE5OCIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIzOC41NC45NC4xMjIiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjJjYThiOWMzLWEyYzctNGYzZS1iM2Y0LWFjZDg1NTI1YWNlMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvTDAyMjktMTYiLCJwb3J0IjoyMDUzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJhZGQiOiIxNTkuNjkuMTIwLjk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI1YzNlMmU4LWRmYjYtNGEwYS1iNjU2LTg3ZTk5NzYxMDc4NSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDEzOTEiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
