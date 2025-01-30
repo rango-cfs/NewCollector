@@ -1,6 +1,8 @@
 VLESS Link:
 vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.nEt:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#IP_CF
 vless://03ed1462-ef41-453d-a06d-03999f4ab2d4@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=frANtIC-GrOUP.oNeEat.Co.&type=ws#IP_CF
+vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
+vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.nEt:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-2f8945ecd9fb@theatlantic.com:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=6.fidsxss10x.ir&fp=chrome&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-72d07c1bca2d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=kazemi11zerofun.com&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-8f72e0b99a69@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Sharebazii.com&type=ws#IP_CF
