@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@speedtest.net:80?type=ws&host=mmd6.ir&path=/?ed%3D2048&security=none#IP_CF
 vless://0183c3a4-7fb9-41c9-a8f2-3c032a6ad721@150.241.102.95:10799/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=random&security=reality&pbk=yw374OPQfpF0KpnFYX2zYnO8-NC7RkgGbbiMzmZYvDU&sid=330602658f0ade#IP_CF
 vless://%40v2rayng_vpnn@speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://%40v2rayng_vpnn@speedtest.net:80?type=ws&host=mmd6.ir&path=/?ed%3D2048&security=none#IP_CF
@@ -25,3 +24,4 @@ vless://TELEGRAM-NUFiLTER-2bc09c361f47@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 
 VMESS Link:
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiXC9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsInBvcnQiOiIyMDk1IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxMDQuMTguMTIuMTUiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHBcLzEuMSIsImZwIjoiZmlyZWZveCIsImhvc3QiOiJtb2ppaWRzMy5lbWFkZ3JhcGhpYy51cy5rZyIsImlkIjoiYzFmZDc4MGEtMzQwOC00ZjQ4LWE5MzItNTgzMmEyOGNlOWY2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9hdXNndDAyLmJlc3Rmb3J4cmF5LmJ1enpcL2xpbmt3cyIsInBvcnQiOiIyMDk2IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoibW9qaWlkczMuZW1hZGdyYXBoaWMudXMua2ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
