@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://00f712a7-badd-4f03-9361-f9851fa1e84e@join.VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-VPNCUSTOMIZE--telegram-VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE--telegram---VPNCUSTOMIZE%3Fed%3D2048&host=JoinBede--VPNCUSTOMIZE--VPNCUSTOMIZE.ir&type=ws#IP_CF
 vless://%40v2rayng_vpnn@speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-13b3cacb41bf@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss6x.ir&type=ws#IP_CF
