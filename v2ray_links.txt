@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@fastly.nEt:80?security=none&encryption=none&host=0-MOSIV2-0.COM&type=ws#IP_CF
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443?encryption=none&security=tls&sni=wear.net&type=ws&host=aw039.ir&path=/?ed=2048#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
