@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
 vless://01569302-ddab-4d89-8804-a16c3a9001b0@de-re.afteam.ir:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=zula.ir&sid=f830f6#IP_CF
 vless://-ArV2ray--ArV2ray--ArV2ray-@104.18.202.232:80?path=%2F%40ArV2ray%2C%40ArV2ray%2C%40ArV2ray%3Fed%3D2048&security=none&encryption=none&host=l.l.l.l.l.l.l.l.l.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B781.tech&type=ws#IP_CF
 vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd.ir&type=ws#IP_CF
