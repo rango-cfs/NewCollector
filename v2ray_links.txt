@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0060fb3a-06d1-5962-85cb-5f22ac528d68@151.101.129.6:80?security=&type=ws&host=0-MOSIV2-0.COM&encryption=none#IP_CF
 vless://0466bf43-b8a3-4ddb-eb1c-5bec6e1ae692@20.215.42.100:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=eleven.dilik.co#IP_CF
 vless://051f2caf-63c2-42a5-dfdb-46dd62b3f2b2@138.199.194.142:32975?type=kcp&headerType=wireguard&seed=OKFiG1VzaP&security=none#IP_CF
 vless://TELEGRAM-NUFiLTER-0c81fd203b57@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=kazemi21zerofun.com&type=ws#IP_CF
