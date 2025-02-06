@@ -1,7 +1,4 @@
 VLESS Link:
-vless://054d503d-4748-47a6-8118-71a96c51f2d9@172.66.168.197:443?path=%2FVLESS&security=tls&encryption=none&host=Nl2-FulL.PrIvAteiP.NeT&type=ws&sni=Nl2-FulL.PrIvAteiP.NeT#IP_CF
-vless://03785d07-03ad-4e12-942e-aaccecb8ca2e@h5.xn--gmq282ekfhyys3gs.com:2087?security=reality&sni=dash.cloudflare.com&fp=firefox&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&sid=83cdb009&type=grpc&encryption=none#IP_CF
-vless://03785d07-03ad-4e12-942e-aaccecb8ca2e@h5.xn--gmq282ekfhyys3gs.com:2087?mode=gun&security=reality&encryption=none&pbk=StgXQYbkKSkAHHzakVldKHVmrBXhe_J87e7bydUIOGw&fp=firefox&type=grpc&sni=dash.cloudflare.com&sid=83cdb009#IP_CF
 vless://%562%52%41%58%58--@151.101.0.155:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#IP_CF
 vless://048a4eec-aa97-44bc-b9f0-335767d4961f@c1.vact.ir:2083?mode=gun&security=reality&encryption=none&pbk=wOmjhFY8A0ePI29U00Ic3VTgYZGSe8iY8bu7QlYpiRU&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=73e4feeb0580#IP_CF
 vless://048a4eec-aa97-44bc-b9f0-335767d4961f@c1.vact.ir:2083?security=reality&encryption=none&pbk=wOmjhFY8A0ePI29U00Ic3VTgYZGSe8iY8bu7QlYpiRU&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray&sni=www.cdn77.com&sid=73e4feeb0580#IP_CF
