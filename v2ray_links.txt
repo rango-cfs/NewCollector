@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%50%61%72%73%61%73%68%6F%6E%61%6D-167@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://02a3e771-fb49-4662-db97-48100c811e09@de-re.afteam.ir:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=%2FJoinBadeChannel%40JOKERRVPN&type=tcp&sni=zula.ir&sid=f830f6#IP_CF
 vless://02a3e771-fb49-4662-db97-48100c811e09@de-re.afteam.ir:11163?security=reality&encryption=none&pbk=BHwcQOO7FJVCW0W2naMQ3F7tbZlLgBrKfjhspc66IzU&headerType=none&fp=chrome&spx=%2FJoinBadeChannel%40JOKERRVPN&type=tcp&sni=zula.ir&sid=f830f6#IP_CF
 vless://TELEGRAM-NUFiLTER-2762bb456bfd@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Dorzadim.filtero.net&type=ws#IP_CF
