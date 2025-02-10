@@ -1,5 +1,4 @@
 VLESS Link:
-vless://01cb8936-4e32-4b37-b28a-6be8b65ad76b@tify-binex-join.espikernajafi.ir:2053?path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560host&security=none&encryption=none&type=ws#IP_CF
 vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&encryption=none&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spb33.hipay.su&sid=afc6da8dd99e4b83#IP_CF
 vless://----%56%32%52%41%58%58---@SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-9a5fee996f59@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=onyeki-ip.com&type=ws#IP_CF
@@ -25,3 +24,4 @@ vless://TELEGRAM-NUFiLTER-16a2d453b4bf@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 
 VMESS Link:
 vmess://eyJhZGQiOiJ2aXNhLmNvbSIsImFpZCI6MCwiaG9zdCI6Imhhbmd1by5kYWx1cXVhbi50b3AiLCJpZCI6IjNlMTI1ZmFjLTJlNWUtNDRmNC1iZDViLTVkZTU3MTJmZGJmZiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTA5LjIyOC4xMTMiLCJwb3J0IjoyMTgwOSwiaWQiOiJhNjE3OTQ3NS00ODljLTRiY2MtYjA1Yy00ODEzODYyOTViOTMiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
