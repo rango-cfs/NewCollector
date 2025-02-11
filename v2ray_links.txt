@@ -1,5 +1,4 @@
 VLESS Link:
-vless://----%56%32%52%41%58%58---@SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#IP_CF
 vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&encryption=none&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=spb33.hipay.su&sid=afc6da8dd99e4b83#IP_CF
 vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&encryption=none&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spb33.hipay.su&sid=afc6da8dd99e4b83#IP_CF
 vless://TELEGRAM-NUFiLTER-56a718fd3596@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Indota-ip.com&type=ws#IP_CF
