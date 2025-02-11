@@ -1,6 +1,4 @@
 VLESS Link:
-vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=hefdah.dilik.co#IP_CF
-vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=hefdah.dilik.co#IP_CF
 vless://0703e49e-48f3-403b-b49c-400bc5d1ceb0@140.82.58.247:8080/?path=%2F&security=none&encryption=none&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-56a718fd3596@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Indota-ip.com&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-dd41bb6c7604@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss2x.ir&type=ws#IP_CF
