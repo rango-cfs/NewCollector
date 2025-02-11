@@ -1,5 +1,4 @@
 VLESS Link:
-vless://----%56%32%52%41%58%58---@SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#IP_CF
 vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=hefdah.dilik.co#IP_CF
 vless://0cf13601-4752-4f9f-b196-e2e214a589bb@172.167.181.175:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=hefdah.dilik.co#IP_CF
 vless://0703e49e-48f3-403b-b49c-400bc5d1ceb0@140.82.58.247:8080/?path=%2F&security=none&encryption=none&type=ws#IP_CF
@@ -29,3 +28,5 @@ vmess://eyJhZGQiOiIxMDQuMTkuNDguMjM2IiwiYWlkIjowLCJob3N0IjoiY2h1bmNodWFuLmtlaml4
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAzLjY3Ljc5LjE1NyIsInBvcnQiOjQ1MzY1LCJpZCI6IjdkMmE0ZTY2LTE1MmMtNDlmNS05ZmY1LWMxOWE4MzZlOGM4OSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNC4yNDAuNzMuNTUiLCJwb3J0IjoxNDExOCwiaWQiOiJkNTEzYmZiMi1iN2MyLTRkYzYtYTNmOS01NTE0NWYxOTg3MDUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjIuMTQ2LjIzMy4xNTkiLCJwb3J0Ijo0Mzc2MywiaWQiOiIxZGRmM2FkZS01YjhjLTQyMGMtODRmNi1mOTY5NzllYzMwODAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNC4yNDAuNzMuNTUiLCJwb3J0IjoxNDExOCwiaWQiOiJkNTEzYmZiMi1iN2MyLTRkYzYtYTNmOS01NTE0NWYxOTg3MDUiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjAuMTg4LjExNy4yMDEiLCJwb3J0IjozMjk5NSwiaWQiOiIyN2NmMGI5NC1hMDlhLTRjN2QtOTgxOC05Njk2MDc2ZDdiNTIiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
