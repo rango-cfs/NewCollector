@@ -1,5 +1,4 @@
 VLESS Link:
-vless://-%20KING%20OF%20SPEED%20-@www.speedtest.net:2082?security=&type=httpupgrade&path=yakuzaytarmin?ed%3D2082&host=yakuasubcha.poqpoq.shop.&encryption=none#IP_CF
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-171@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://d863b0b5-bbc2-4364-a0f4-36da9e28d457@Www.Speedtest.neT:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=Naser.bKliNk.IR&type=ws#IP_CF
 vless://ff2b2fca-a979-4f23-8740-17975f11110a@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss222x.ir&type=ws#IP_CF
