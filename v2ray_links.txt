@@ -1,8 +1,8 @@
 VLESS Link:
-vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&encryption=none&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spb33.hipay.su&sid=afc6da8dd99e4b83#IP_CF
 vless://-%20KING%20OF%20SPEED%20-@www.speedtest.net:2082?security=&type=httpupgrade&path=yakuzaytarmin?ed%3D2082&host=yakuasubcha.poqpoq.shop.&encryption=none#IP_CF
 vless://-%20KING%20OF%20SPEED%20-@www.speedtest.net:2082?security=&type=httpupgrade&path=yakuzaytarmin?ed%3D2082&host=yakuasubcha.poqpoq.shop.&encryption=none#IP_CF
 vless://009cccba-c0ec-4297-9898-5115898a7246@103.71.22.3:443?security=reality&encryption=none&pbk=n3NmzivS8eutbp8V2dcDqe-UyZynD1jszNy3l-2wzkw&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=spb33.hipay.su&sid=afc6da8dd99e4b83#IP_CF
+vless://-%20KING%20OF%20SPEED%20-@www.speedtest.net:2082?security=&type=httpupgrade&path=yakuzaytarmin?ed%3D2082&host=yakuasubcha.poqpoq.shop.&encryption=none#IP_CF
 vless://TELEGRAM-NUFiLTER-ad1f691a9ca9@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=6.fidsxss21320x.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-6331ab8dee1a@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss10x.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-16a2d453b4bf@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=1.fidsxss10x.ir&type=ws#IP_CF
