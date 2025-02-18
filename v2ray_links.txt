@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-175@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-175@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://TELEGRAM-NUFiLTER-fd93b50aa0f4@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss21320x.ir&type=ws#IP_CF
