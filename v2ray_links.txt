@@ -1,8 +1,7 @@
 VLESS Link:
+vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
+vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-175@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IP_CF
-vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
-vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
-vless://%40v2rayng_vpnn@mmd.fast.hosting-ip.com:80?type=ws&path=%2F%3Fed%3D2048&host=mmd.ir&security=none#IP_CF
 vless://%50%61%72%73%61%73%68%6F%6E%61%6D-175@[2a01:4f8:1c1b:e1d0::1]:8888?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://TELEGRAM-NUFiLTER-fd93b50aa0f4@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss21320x.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-3ab8cfd98757@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss222x.ir&type=ws#IP_CF
@@ -26,7 +25,7 @@ vless://TELEGRAM-NUFiLTER-222236c3cae8@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 vless://TELEGRAM-NUFiLTER-94ab0eb2cba9@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss2122x.ir&type=ws#IP_CF
 
 VMESS Link:
-vmess://eyJhZGQiOiIzaC1wb2xhbmQxLjA5dnBuLmNvbSIsImFpZCI6MCwiaG9zdCI6IjNoLXBvbGFuZDEuMDl2cG4uY29tIiwiaWQiOiJhNDg1MDQ4MS05Yjk1LTQzMGYtOWIyZC0xOTJkMjQxMGI0ZjQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiIxNDIuNC4xMDguMTMxIiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9wYXRoXC8yODMxMjYyNjEzMDMiLCJwb3J0IjozODAwNywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiI5NS4yMTYuMTQ1LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2Q5Yzg3Ni05MmM2LTRmMmItODRhOC03NmNmZjY3ODEzNDkiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5NS4yMTYuMTQ1LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjN2Q5Yzg3Ni05MmM2LTRmMmItODRhOC03NmNmZjY3ODEzNDkiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI4NSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI5MS4xMDcuMTg4LjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImI1OGVhMDQxLWIyNjQtNDJiMy1iOTI4LTRiMzk1OTY3ZDc1OSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6Ijg1ODUiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
