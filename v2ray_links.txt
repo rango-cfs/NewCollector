@@ -1,6 +1,6 @@
 VLESS Link:
-vless://04986e4a-0c5c-4de5-853e-911706546ecc@free.best-antiaging-reviews.com:2096/?type=tcp&encryption=none&security=tls&sni=free.best-antiaging-reviews.com&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.130.98:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#IP_CF
+vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@199.232.210.133:443?path=%2F%3Fed&security=tls&encryption=none&host=aw039.ir&type=ws&sni=wear.net#IP_CF
 vless://TELEGRAM-NUFiLTER-76e5bfd0624a@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss21320x.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-7ce7818dcdcc@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss7xz.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-ad9bc064d385@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.fidsxss222x.ir&type=ws#IP_CF
