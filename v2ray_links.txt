@@ -1,8 +1,8 @@
 VLESS Link:
-vless://01571030-9447-4760-a931-bad5b88767cb@whatismyipaddress.com:2087?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s10.doodgechan.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s10.doodgechan.ir&fp=#IP_CF
-vless://03588a25-b81d-40b1-bda4-7bb7700281ac@95.164.85.110:1142?security=reality&sni=stackoverflow.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83&type=tcp&encryption=none#IP_CF
 vless://044ea0d1-309e-42a3-b9b0-a9fab400929e@155.138.193.226:8080?path=%2F&security=none&encryption=none&type=ws#IP_CF
 vless://05029a18-3dde-4607-b6af-c12c579745bd@149.248.33.166:8080?path=%2F&security=none&encryption=none&type=ws#IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.118.186:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#IP_CF
+vless://01571030-9447-4760-a931-bad5b88767cb@whatismyipaddress.com:2087?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s04.doodgechan.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s04.doodgechan.ir&fp=#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.118.186:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#IP_CF
 vless://TELEGRAM-NUFiLTER-04bb4395e6eb@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=3.nufilter-telegram.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-ec985f4a37c3@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=2.nufilter-telegram.ir&type=ws#IP_CF
@@ -26,7 +26,6 @@ vless://TELEGRAM-NUFiLTER-7928fe090dea@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 vless://TELEGRAM-NUFiLTER-ea8e8d15a904@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=6.nufilter-telegram.ir&type=ws#IP_CF
 
 VMESS Link:
-vmess://eyJhZGQiOiIxMDQuMjEuMy4yMTkiLCJhaWQiOjAsImhvc3QiOiJ1c3d1eGlhbi5wYWk1MDI4OC51ayIsImlkIjoiYzMxMzYwNmYtOThjMi00ZDdiLWJhNzQtNDhiOTRmNjFiMTFkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo4NDQzLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vmess://eyJhZGQiOiI0Ni4yNTAuMjUzLjIzMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1NWI4OGIxNC0wZmYzLTRmMjUtODk4My1lNzNkMWY5ZjNhMGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2NjE3IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1LjE5Ni4yOS4xMjMiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6MjA4MiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
 vmess://eyJhZGQiOiI0Ni4yNTAuMjUzLjIzMiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI1NWI4OGIxNC0wZmYzLTRmMjUtODk4My1lNzNkMWY5ZjNhMGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ2NjE3IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
