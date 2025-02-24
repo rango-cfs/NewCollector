@@ -1,6 +1,4 @@
 VLESS Link:
-vless://01571030-9447-4760-a931-bad5b88767cb@whatismyipaddress.com:2087?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s10.doodgechan.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s10.doodgechan.ir&fp=#IP_CF
-vless://03588a25-b81d-40b1-bda4-7bb7700281ac@95.164.62.158:1152?security=reality&sni=stackoverflow.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83&type=tcp&encryption=none#IP_CF
 vless://010bf8a9-44ff-4851-9a05-b960ac7eea8a@ufc.ru:80?encryption=none&security=none&type=ws&host=google55fajasodfgdfs.com&path=ws%2F%3Fed%3D2048#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.0.232:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
 vless://03588a25-b81d-40b1-bda4-7bb7700281ac@95.164.62.158:1152?security=reality&sni=stackoverflow.com&fp=chrome&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&sid=4374d295a4f9dd83&type=tcp&encryption=none#IP_CF
