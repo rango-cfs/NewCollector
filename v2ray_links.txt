@@ -1,7 +1,8 @@
 VLESS Link:
-vless://06dd7fa5-5b58-4385-a080-b916e4e79eef@zula.ir:8443?security=tls&type=grpc&headerType=&serviceName=8443vless&authority=wwwspeedtestnetwhiteberinsistomd6625996s10.gamers-room-forlifelol2.ir&mode=gun&sni=wwwspeedtestnetwhiteberinsistomd6625996s10.gamers-room-forlifelol2.ir&fp=#IP_CF
 vless://09060576-b150-4d5e-9b89-59c0399fbb54@spdnet.fastly80-3.hosting-ip.com:80?path=%2Fspdnet%3Fed%3D1024&security=none&encryption=none&host=Xk.monospanck.ir&type=ws#IP_CF
 vless://0bb073fc-34e8-44ac-9f22-dad03dc65d34@zemni1.saintbiv.ir:23297?encryption=none&security=none&type=ws&path=%2F#IP_CF
+vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.182.29:443/?type=tcp&encryption=none&security=tls&sni=147135011033.sec21org.com#IP_CF
+vless://090a442b-7adb-4c3f-a2d6-8dc22e9ec5c6@www.speedtest.net:2087?encryption=none&security=tls&sni=ch5.NewrEtR432as.INfO&type=ws&alpn=h2http/1.1&host=ch5.NewrEtR432as.INfO&path=/#IP_CF
 vless://TELEGRAM-NUFiLTER-4ad9fac2a784@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=3.nufilter-telegram.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-ade21ce71473@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=2.nufilter-telegram.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-7928fe090dea@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=1.nufilter-telegram.ir&type=ws#IP_CF
