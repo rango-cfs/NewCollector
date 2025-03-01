@@ -1,6 +1,4 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.92.75:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.242.160.42:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.29.106:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.61.221.137:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#IP_CF
 vless://%54%65%6C%65%67%72%61%6D%2D%63%68%61%6E%6E%65%6C%2D%6D%74%6D%76%70%6E@mehdi.vact.ir:443?type=grpc&serviceName=%54%45%4C%45%47%52%41%4D%2D%4D%54%4D%56%50%4E%2D%54%45%4C%45%47%52%41%4D%2D%4D%54%4D%56%50%4E%2D%54%45%4C%45%47%52%41%4D%2D%4D%54%4D%56%50%4E&authority=&security=reality&pbk=BqyR1J0knEz_ExHwER9WKfxCeoMduUlb4oCGTez7-yg&fp=chrome&sni=www.cdn77.com&sid=6b&spx=%2F#IP_CF
@@ -26,5 +24,5 @@ vless://TELEGRAM-NUFiLTER-53457858088d@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 vless://TELEGRAM-NUFiLTER-f4ce6e19a323@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=1.nufilter-telegram.ir&type=ws#IP_CF
 
 VMESS Link:
-vmess://eyJhZGQiOiIxNjIuMTU5LjI1Mi4yMTAiLCJhaWQiOjAsImhvc3QiOiJzZzAxcy41N2RlLTc4ZmM0YzcxNTYxNS5jZmQiLCJpZCI6IjBiYTRhMjQwLTE1ODYtNGE1NC05MjljLTI2Mzg5YzhhNDExMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
+vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
