@@ -1,6 +1,4 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.49.252.212:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.125.176:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.48.160.36:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.29.106:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.29.106:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&path=/telegram-channel-vlessconfig-ws&host=telegram-channel-vlessconfig.sohala.uk&encryption=none#IP_CF
@@ -26,3 +24,4 @@ vless://TELEGRAM-NUFiLTER-4e25c0b9a107@NUFiLTER.fastly80-3.hosting-ip.com:80?pat
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDYuMjUwLjI1My4yMzIiLCJwb3J0IjoiNDY2MTciLCJpZCI6IjU1Yjg4YjE0LTBmZjMtNGYyNS04OTgzLWU3M2QxZjlmM2EwYSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTU3LjI0NS40LjE3MCIsInBvcnQiOiI4ODgxIiwiaWQiOiJkYjVhZmFlNC1hYzIzLTQxYTYtODM3OC1mMzA3YTlhNDc0MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Im1vaS5pciIsInBhdGgiOiJcLyIsInRscyI6Im5vbmUiLCJzbmkiOiIiLCJhbHBuIjoiIn0=
