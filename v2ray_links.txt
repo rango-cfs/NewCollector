@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0389c130-7204-4180-9aed-3e152fda252c@91.92.40.78:2070?type=tcp&security=none#IP_CF
 vless://0422e520-c34a-43d9-a76b-e77e266f484a@188.245.96.137:1717?mode=gun&security=none&encryption=none&authority=jokerrvpnTelegram%20%3A&type=grpc&serviceName=1717vless#IP_CF
 vless://076dd4c5-6ea1-4ad1-bfad-8fe312f6da92@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s26.elitemizban.ir&fp=#IP_CF
 vless://%4A%6F%69%6E---%46%41%52%45%58%53%49---@joinbede.SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#IP_CF
