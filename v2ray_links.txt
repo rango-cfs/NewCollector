@@ -1,5 +1,4 @@
 VLESS Link:
-vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.234:443?path=%2Fisegaro&security=tls&encryption=none&host=frankfurt.isegaro.click&type=ws&sni=frankfurt.isegaro.click#IP_CF
 vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.234:443?path=%2Fisegaro&security=tls&encryption=none&host=berlin.isegaro.click&type=ws&sni=berlin.isegaro.click#IP_CF
 vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@45.85.118.88:443?path=%2Fisegaro&security=tls&encryption=none&host=london.isegaro.click&type=ws&sni=london.isegaro.click#IP_CF
 vless://%56%32%52%41%58%58@joinbede.SRCVPN.fastly80-3.hosting-ip.com:80?path=%2F%54%65%6C%65%67%72%61%6D%2C%56%32%52%41%58X%2CTelegram%2C%3Fed%3D2048&host=%56%32%52%41%58X.ir&type=ws#IP_CF
