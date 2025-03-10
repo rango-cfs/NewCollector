@@ -1,5 +1,4 @@
 VLESS Link:
-vless://---telegram--ISVvpn--1@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn&security=none&encryption=none&host=www.speedtest.net.1.speedtest3.onlinE.&type=ws#IP_CF
 vless://%40v2rayng_vpnn@speedtest.net:80/?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mmd6.ir&type=ws#IP_CF
 vless://---telegram--ISVvpn--1@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn&security=none&encryption=none&host=www.speedtest.net.1.speedtest3.onlinE.&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-63c06648b01f@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=3.nuf-telegram.ir&type=ws#IP_CF
