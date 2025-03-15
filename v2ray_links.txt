@@ -1,5 +1,4 @@
 VLESS Link:
-vless://021b97e0-b194-4907-91ed-8625bcc60f28@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENCHANtING-amount.OnEeAt.Co.&type=ws#IP_CF
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443/?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aw035.ir&type=ws&sni=wear.net#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.2.134:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://---telegram--ISVvpn--1@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn&security=none&encryption=none&host=www.speedtest.net.1.speedtest3.onlinE.&type=ws#IP_CF
