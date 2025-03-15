@@ -1,6 +1,4 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.33.143:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.156.149:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://021b97e0-b194-4907-91ed-8625bcc60f28@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENCHANtING-amount.OnEeAt.Co.&type=ws#IP_CF
 vless://046fd332-80a6-43b0-91b0-7238a1dfc36c@wear.net:443/?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=aw035.ir&type=ws&sni=wear.net#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.2.134:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
@@ -9,6 +7,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.156.149:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.156.149:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://021b97e0-b194-4907-91ed-8625bcc60f28@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENCHANtING-amount.OnEeAt.Co.&type=ws#IP_CF
 vless://021b97e0-b194-4907-91ed-8625bcc60f28@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ENCHANtING-amount.OnEeAt.Co.&type=ws#IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.2.134:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://TELEGRAM-NUFiLTER-c22282498f3a@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=3.nuf-telegram.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-796c0a4aa02d@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=2.nuf-telegram.ir&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-033eae10fe9e@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=5.nuf-telegram.ir&type=ws#IP_CF
