@@ -1,6 +1,4 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.20.212:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.151.12:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.151.12:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.17.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://00cb16a4-4170-4e97-a5a3-852dea723681@mw1.rogha.ir:443?encryption=none&security=reality&sni=eset.com&fp=chrome&pbk=gFo7E95jYIdI1R8fmBzuPfCyQ4CHTFW-KHoDKIql7XE&sid=5d589d05&spx=%2F&type=tcp&headerType=none#IP_CF
