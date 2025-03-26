@@ -1,6 +1,5 @@
 VLESS Link:
 vless://--V2RAXX--@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#IP_CF
-vless://--V2RAXX--@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#IP_CF
 vless://0b5882a8-d7f0-4e44-b289-3d59eda71f45@mtn-join.servernett.cfd:34940?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
 vless://0b5882a8-d7f0-4e44-b289-3d59eda71f45@mtn-join.servernett.cfd:34940?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
 vless://--V2RAXX--@speedtest.net:80?mode=auto&path=%2FTelegram%2CV2RAXX%2CTelegram%2C%3Fed%3D2048&security=none&encryption=none&host=V2RAXX-join.global.ssl.fastly.net&type=xhttp#IP_CF
