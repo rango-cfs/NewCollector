@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%3A%3Av2rayng_76@halamadrid.bellingham5.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=halamadrid.bellingham5.shop&type=ws#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.51.226.58:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
 vless://%3A%3Av2rayng_76@halamadrid.bellingham5.shop:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=halamadrid.bellingham5.shop&type=ws#IP_CF
 vless://0398bf98-40fc-5f3a-ad3e-81ab26894bc2@45.89.55.188:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#IP_CF
