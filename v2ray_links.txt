@@ -1,6 +1,6 @@
 VLESS Link:
-vless://01096737-0e15-464e-96ea-5830fb38cc72@165.227.137.92:53303?security=&encryption=none&pbk=&headerType=none&fp=&type=tcp&sni=&sid=#IP_CF
 vless://00f6684b-e24f-49e8-9d5c-0d461324d248@128.140.99.229:12826?security=reality&encryption=none&pbk=fz144NXJyzQHGDUmnz3RXOb15v2fPNbKaRV-1sk5iw0&headerType=none&fp=random&type=tcp&sni=www.google.com&sid=bdc98dc4321c7f39#IP_CF
+vless://01096737-0e15-464e-96ea-5830fb38cc72@165.227.137.92:53303?security=&encryption=none&pbk=&headerType=none&fp=&type=tcp&sni=&sid=#IP_CF
 vless://01096737-0e15-464e-96ea-5830fb38cc72@165.227.137.92:53303?security=&encryption=none&pbk=&headerType=none&fp=&type=tcp&sni=&sid=#IP_CF
 vless://01096737-0e15-464e-96ea-5830fb38cc72@165.227.137.92:53303?security=&encryption=none&pbk=&headerType=none&fp=&type=tcp&sni=&sid=#IP_CF
 vless://01096737-0e15-464e-96ea-5830fb38cc72@165.227.137.92:53303?security=&encryption=none&pbk=&headerType=none&fp=&type=tcp&sni=&sid=#IP_CF
