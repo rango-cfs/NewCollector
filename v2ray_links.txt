@@ -1,7 +1,5 @@
 VLESS Link:
 vless://00cbf18a-7800-4333-8f41-4ae64db3ded1@95.179.248.225:13754?security=reality&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=ea1058117be12087&type=grpc&serviceName=xyz&packetEncoding=xudp&encryption=none#IP_CF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.40.66:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
-vless://00cbf18a-7800-4333-8f41-4ae64db3ded1@95.179.248.225:13754?security=reality&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=ea1058117be12087&type=grpc&serviceName=xyz&packetEncoding=xudp&encryption=none#IP_CF
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#IP_CF
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.134.3.69:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#IP_CF
@@ -28,5 +26,5 @@ vless://2f29e78d-b32a-40bf-b382-eb99d2a4f33d@www.speedtest.net:8443?path=%2Ftele
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYmE5MWUwYTEtc3V0ajQwLXQxazUzci0xam04aS5jdS5wbGViYWkubmV0IiwicG9ydCI6IjUyMjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTZkZGZjMzctMDVlYi0xMWVkLWFmNDAtZjIzYzkxY2ZiYmM5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJiYTkxZTBhMS1zdXRqNDAtdDFrNTNyLTFqbThpLmN1LnBsZWJhaS5uZXQiLCJ0bHMiOiIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYmE5MWUwYTEtc3V0ajQwLXQxazUzci0xam04aS5jdS5wbGViYWkubmV0IiwicG9ydCI6IjUyMjgiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTZkZGZjMzctMDVlYi0xMWVkLWFmNDAtZjIzYzkxY2ZiYmM5IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJiYTkxZTBhMS1zdXRqNDAtdDFrNTNyLTFqbThpLmN1LnBsZWJhaS5uZXQiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDEiLCJwb3J0IjoiNDY1OTciLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiY2RlOWYwNzQtYzkzMC00YWEzLWE1NTgtNDZiYmM5ZDBhNWExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NDc1NyIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
