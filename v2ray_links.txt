@@ -1,5 +1,4 @@
 VLESS Link:
-vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560&security=none&encryption=none&host=azadnet.b0b723a182.workers.dev&type=ws#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@162.159.44.188:443?path=%2F&security=tls&encryption=none&host=vc.ylka.dpdns.org&type=ws&sni=vc.ylka.dpdns.org#IP_CF
 vless://%48%71%76%32%72%61%79@188.213.130.77:443?security=reality&pbk=pA_zobcLsGBZ8_VWIT8LxjYpwhSq4m9KO74yjgvC4QI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=chess.com#IP_CF
 vless://%48%71%76%32%72%61%79@188.213.130.77:443?security=reality&pbk=pA_zobcLsGBZ8_VWIT8LxjYpwhSq4m9KO74yjgvC4QI&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=chess.com#IP_CF
