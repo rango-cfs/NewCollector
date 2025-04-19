@@ -1,6 +1,5 @@
 VLESS Link:
 vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#IP_CF
-vless://030e448c-7535-4ea5-8c55-1b00403c0f6b@www.speedtest.net:2096?type=grpc&serviceName=&authority=&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=app6.appdatanewk.lat#IP_CF
 vless://00da4e80-454a-4c96-a1f2-86989110f87a@173.245.59.100:2052/?type=httpupgrade&encryption=none&host=Yusi.serrjioo.ir&path=%2FGoodLuck#IP_CF
 vless://0cd2c22e-7bab-41cc-8168-c77be874d632@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#IP_CF
 vless://TELEGRAM-NUFiLTER-3f5f72a4620f@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG&fp=firefox&type=ws&sni=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG#IP_CF
