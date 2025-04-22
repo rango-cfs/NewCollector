@@ -1,6 +1,4 @@
 VLESS Link:
-vless://075b9690-f1cc-4d0c-aa1e-f80f07f09815@172.67.152.170:443?path=%2FcXwWQOGtZd9NCd8WBZ57XYkE&security=tls&alpn=http%2F1.1&encryption=none&host=4dfghj.191288.xyz&fp=chrome&type=ws&sni=4dfghj.191288.xyz#IP_CF
-vless://01546a66-9978-472d-a59c-b43d3e450695@188.212.97.28:31313?path=%2F&security=none&encryption=none&type=ws#IP_CF
 vless://075b9690-f1cc-4d0c-aa1e-f80f07f09815@104.21.82.39:443?path=%2FcXwWQOGtZd9NCd8WBZ57XYkE&security=tls&alpn=http%2F1.1&encryption=none&host=4dfghj.191288.xyz&fp=chrome&type=ws&sni=4dfghj.191288.xyz#IP_CF
 vless://0a6f34c4-39a7-4a27-914c-9d9ec9b57a89@website.amin-app.ir:8880?path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048&security=none&encryption=none&host=vIhYpErClOuD.aCaDeMiGrOuP.iR.&type=ws#IP_CF
 vless://09cc85d5-3bab-49f4-8e7b-1b5ada36f269@arhihhaeruhigagh.ir:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=irancell.net.&type=ws#IP_CF
