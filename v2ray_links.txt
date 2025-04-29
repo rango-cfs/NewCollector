@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0827c182-c55a-4019-a5d4-0f370756e9c9@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aliVE-laKE.oNeeAT.CO.&type=ws#IP_CF
 vless://05a575dd-6f76-4940-b53b-76009cefe33a@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cArEFul-insuRanCE.ONeEaT.Co.&type=ws#IP_CF
 vless://0827c182-c55a-4019-a5d4-0f370756e9c9@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aliVE-laKE.oNeeAT.CO.&type=ws#IP_CF
 vless://00f061fc-5083-4f2f-8408-67990e4cbfaa@164.92.172.116:37051?security=reality&encryption=none&pbk=4HV8B6aiVjtQHJ6wEtGtMilz62FS8jnI68xNZrt56z0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Referson.com&sid=48e98e27#IP_CF
