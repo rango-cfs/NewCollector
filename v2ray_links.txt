@@ -1,6 +1,5 @@
 VLESS Link:
 vless://07b3a2a9-650a-4335-b40e-7f577d9987e7@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=LaIDbACk-cloCk.onEEAT.CO.&type=ws#IP_CF
-vless://07b3a2a9-650a-4335-b40e-7f577d9987e7@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=LaIDbACk-cloCk.onEEAT.CO.&type=ws#IP_CF
 vless://0827c182-c55a-4019-a5d4-0f370756e9c9@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aliVE-laKE.oNeeAT.CO.&type=ws#IP_CF
 vless://09f9157c-6c75-466e-e117-a6edeba22553@3.112.252.9:48821?path=%2Fbing&security=none&encryption=none&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-3f5f72a4620f@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG&fp=firefox&type=ws&sni=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG#IP_CF
