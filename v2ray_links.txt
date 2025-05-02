@@ -1,6 +1,4 @@
 VLESS Link:
-vless://028b8bdf-5831-4dc6-92c4-030ac151f587@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CLEAR-heADED-DAy.oNeeAt.Co.&type=ws#IP_CF
-vless://%54%45%4C%45%47%52%41%4D%2D%53%65%72%76%65%72%4E%65%74%74@[2a01:4f8:1c1b:247d::1]:31579?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://0cc2605e-0ead-4396-b0d5-68ac136314ff@209.38.53.86:23969?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#IP_CF
 vless://09f9157c-6c75-466e-e117-a6edeba22553@3.112.252.9:48821?path=%2Fbing&security=none&encryption=none&type=ws#IP_CF
 vless://----%56%32%52%41%58%58----@23.88.44.129:1234?mode=gun&type=grpc&serviceName=%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58%2F%40%56%32%52%41%58%58#IP_CF
@@ -26,6 +24,5 @@ vless://TELEGRAM-NUFiLTER-ad516a963515@NUFiLTER.fastly80-2.hosting-ip.com:80?pat
 vless://2f29e78d-b32a-40bf-b382-eb99d2a4f33d@www.speedtest.net:8443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=kravel6.azadistadium.com&fp=chrome&type=ws&sni=kravel6.azadistadium.com#IP_CF
 
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDYuMjUwLjIzNC4zMiIsInBvcnQiOiI0NTMxNyIsImlkIjoiYjI4MzYzNjktMjIwYi00ODQwLTgwYzQtOGNmOTA0YzczNWVlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiNjUifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDIuOE1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidTguaHV2aWNsb3VkLmNvbSIsInBvcnQiOjQ0MywiaWQiOiI2Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCJ0eXBlIjoiIiwiYWlkIjowLCJuZXQiOiJ3cyIsInRscyI6InRscyIsInNuaSI6InU4Lmh1dmljbG91ZC5jb20iLCJwYXRoIjoiXC82Nzk2NjExYi0yNjBlLTRkNjMtOTAxNi0yMGMyN2IxMmU0MjAiLCJob3N0IjoidTguaHV2aWNsb3VkLmNvbSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTUuMjA0LjI0OS4wIiwicG9ydCI6IjQ4MTYwIiwiaWQiOiI1YjExM2MxMi00ZGQ0LTRiYjUtOWMwMS1jZmYwOTJiNTU5ZTMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
