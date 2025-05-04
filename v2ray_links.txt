@@ -1,6 +1,8 @@
 VLESS Link:
 vless://073c70d3-0fe1-47ee-83ef-94a4353bf877@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=AdoRAble-CHilD.ONEEaT.Co.&type=ws#IP_CF
 vless://09f9157c-6c75-466e-e117-a6edeba22553@3.112.252.9:48821?path=%2Fbing&security=none&encryption=none&type=ws#IP_CF
+vless://016b6f1c-fe66-4e99-b9a6-a1dbba92b1a5@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=glOriouS-ComPArISoN.OnEEAT.cO.&type=ws#IP_CF
+vless://016b6f1c-fe66-4e99-b9a6-a1dbba92b1a5@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=glOriouS-ComPArISoN.OnEEAT.cO.&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-3f5f72a4620f@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG&fp=firefox&type=ws&sni=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG#IP_CF
 vless://TELEGRAM-NUFiLTER-4ba1cbd17180@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=banagh.vipnufilter.online&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-ae3087607725@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=banagh.motorphrotan.ir&fp=chrome&type=ws&sni=banagh.motorphrotan.ir#IP_CF
