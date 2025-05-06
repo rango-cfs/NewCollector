@@ -1,5 +1,4 @@
 VLESS Link:
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.16.209.110:443?security=tls&encryption=none&host=masaleini.mahsaamini.dpdns.org&fp=random&type=ws&sni=masaleini.mahsaamini.dpdns.org#IP_CF
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#IP_CF
 vless://08111b5d-1eb3-4178-b8d1-6c4c22a8fe89@V2RayMizban2.iranigamepars.ir:443?security=reality&encryption=none&pbk=oDHdhbvtMCXmEpcRuxDLJsRxzs79FnfwPOgJrdkeOmE&headerType=&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=4f#IP_CF
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
