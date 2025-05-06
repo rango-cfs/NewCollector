@@ -1,5 +1,4 @@
 VLESS Link:
-vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.181:443?path=%2F%3Fed&security=tls&encryption=none&host=sz.ylks0033.dpdns.org&type=ws&sni=sz.ylks0033.dpdns.org#IP_CF
 vless://03d84c96-8591-49dc-a55e-331ce4855b64@185.203.119.81:80?type=xhttp&path=%2F&host=panel.connect-to-server.ir&mode=stream-one&security=none#IP_CF
 vless://00dfdd9e-c793-44b7-f15d-f37b53f52ce8@snapp.ir.iraniantim.ir:80?security=reality&encryption=none&pbk=yYv9vuo4k2scMcm85us3qCADcfhGl9EEB2PjG1MNE10&headerType=none&fp=chrome&spx=%2FJoin--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN--Join--HAJIMAMADVPN&type=tcp&sni=refersion.com#IP_CF
