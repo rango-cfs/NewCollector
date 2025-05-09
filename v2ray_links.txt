@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0d083787-080d-4eaa-a741-e78c8fcd9547@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#IP_CF
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#IP_CF
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.80.1:80?path=%2FTelegram-%40V2ray_Alpha&security=none&encryption=none&host=masaleini.mahsaamini.dpdns.org&type=ws#IP_CF
 vless://05bf0981-e760-4675-b9e6-b5d81714d530@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=HOsPItaBLe-CHoIcE.oNeEat.Co.&type=ws#IP_CF
