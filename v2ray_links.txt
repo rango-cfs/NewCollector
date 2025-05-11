@@ -1,10 +1,10 @@
 VLESS Link:
-vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
-vless://044ea0d1-309e-42a3-b9b0-a9fab400929e@45.77.120.195:8080?type=ws&security=none&path=%2F#IP_CF
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
 vless://0842c5c0-8730-44c7-bbe4-58ab3b02455f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oUTRAgEOus-PERcentaGE.OneEAt.Co.&type=ws#IP_CF
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@italy.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
 vless://0842c5c0-8730-44c7-bbe4-58ab3b02455f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oUTRAgEOus-PERcentaGE.OneEAt.Co.&type=ws#IP_CF
+vless://05bf0981-e760-4675-b9e6-b5d81714d530@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=HOsPItaBLe-CHoIcE.oNeEat.Co.&type=ws#IP_CF
+vless://0f8fac4e-4d6c-4f6c-8bc6-22a3c065ba6f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DAngeRouS-contacT.oNEeat.Co.&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-3f5f72a4620f@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG&fp=firefox&type=ws&sni=Banagh.2sedkfjeuixijd0ew9dvkcxoisiek31.bloG#IP_CF
 vless://TELEGRAM-NUFiLTER-4ba1cbd17180@www.speedtest.net:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=banagh.vipnufilter.online&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER-ae3087607725@www.speedtest.net:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=banagh.motorphrotan.ir&fp=chrome&type=ws&sni=banagh.motorphrotan.ir#IP_CF
@@ -26,6 +26,4 @@ vless://TELEGRAM-NUFiLTER-ad516a963515@NUFiLTER.fastly80-2.hosting-ip.com:80?pat
 vless://2f29e78d-b32a-40bf-b382-eb99d2a4f33d@www.speedtest.net:8443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=kravel6.azadistadium.com&fp=chrome&type=ws&sni=kravel6.azadistadium.com#IP_CF
 
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiY2xvdWRnZXRzZXJ2aWNlLm1jbG91ZHNlcnZpY2Uuc2l0ZSIsInBvcnQiOjQ0MywiaWQiOiJhN2IwYWUxZS01Mzc2LTQ0NDEtYWJjNC00NWRiNDA5M2U4ODkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJNYXhORXR2aXAtdXNhMS5NQVhuRXRjTE9VRHNFUnZJQ2UuQ09NIiwicGF0aCI6IlwvbGlua3dzP2VkPTI1NjAiLCJ0bHMiOiJ0bHMifQ==
-vmess://eyJhZGQiOiIxNTIuNjcuMjUxLjIzMiIsImFpZCI6MCwiaG9zdCI6ImlydmlkZW8uY2ZkIiwiaWQiOiJlNTM3ZjJmNS0yYTBjLTRmNTktOTJjOS04MzJjYTY0MzNiZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJpcnZpZGVvLmNmZCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiIDMuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYzJhYmM1ZjItc3YweHMwLXN5MHZ1YS0xcnBubS5oazMucDVwdi5jb20iLCJwb3J0Ijo4MCwiYWlkIjoyLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNGQwZTAxY2UtMmFlNi0xMWVmLTg0MzMtZjIzYzkxNjRjYTVkIiwic25pIjoiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iLCJob3N0IjoiYzJhYmM1ZjItc3YweHMwLXN5MHZ1YS0xcnBubS5oazMucDVwdi5jb20iLCJwYXRoIjoiXC8ifQ==
