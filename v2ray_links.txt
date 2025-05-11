@@ -1,6 +1,4 @@
 VLESS Link:
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@109.172.94.249:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#IP_CF
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#IP_CF
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@tgju.org:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@83.147.252.63:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#IP_CF
 vless://0842c5c0-8730-44c7-bbe4-58ab3b02455f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=oUTRAgEOus-PERcentaGE.OneEAt.Co.&type=ws#IP_CF
@@ -29,3 +27,4 @@ vless://2f29e78d-b32a-40bf-b382-eb99d2a4f33d@www.speedtest.net:8443?path=%2Ftele
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjogInRlbGVncmFtIOKYgu+4jyBEYWlseVYycnkiLCJhZGQiOiJjbG91ZGdldHNlcnZpY2UubWNsb3Vkc2VydmljZS5zaXRlIiwicG9ydCI6NDQzLCJpZCI6Ijk2ZTQ0YTIyLTRmNWMtNDhmOS05OWQ5LWYyYzE5ODVkZDViOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IlVzYS1WcC0xOTIuYmxhekVjbG91ZE1BaW4uU2l0RSIsInBhdGgiOiJcL2xpbmt2a3dzIiwidGxzIjoidGxzIn0=Daily
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMzguMTE0LjExNC4yNDEiLCJwb3J0IjoiNDUyNDUiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDY5ZTBiMzEtMzBjMy00ZGFiLTgwMGQtNzExMjMyNjM0Y2UxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJ5ZS5meGxjbi5jb20iLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
