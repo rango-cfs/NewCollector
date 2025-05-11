@@ -1,5 +1,4 @@
 VLESS Link:
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@109.172.94.249:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#IP_CF
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#IP_CF
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2560&security=tls&encryption=none&host=lx.ylks0033.dpdns.org&type=ws&sni=lx.ylks0033.dpdns.org#IP_CF
