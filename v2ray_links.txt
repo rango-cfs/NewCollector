@@ -1,5 +1,4 @@
 VLESS Link:
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#IP_CF
 vless://10b59513-ef76-4494-a925-305ec45dd3a4@109.172.94.249:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=fr.ign.com&sid=27cfa05000c23cc4#IP_CF
 vless://0f8fac4e-4d6c-4f6c-8bc6-22a3c065ba6f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DAngeRouS-contacT.oNEeat.Co.&type=ws#IP_CF
 vless://05bf0981-e760-4675-b9e6-b5d81714d530@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=HOsPItaBLe-CHoIcE.oNeEat.Co.&type=ws#IP_CF
