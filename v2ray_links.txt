@@ -1,5 +1,4 @@
 VLESS Link:
-vless://10b59513-ef76-4494-a925-305ec45dd3a4@147.45.221.3:2040?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&headerType=none&fp=chrome&type=tcp&sni=cdnjs.com&sid=27cfa05000c23cc4#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.30:443?path=%2FTelegram%40V2ray_Alpha%3Fed%3D2560&security=tls&encryption=none&host=lx.ylks0033.dpdns.org&type=ws&sni=lx.ylks0033.dpdns.org#IP_CF
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
 vless://044ea0d1-309e-42a3-b9b0-a9fab400929e@45.77.120.195:8080?type=ws&security=none&path=%2F#IP_CF
