@@ -1,5 +1,4 @@
 VLESS Link:
-vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@germany.gamingbazirani.ir:600?security=tls&encryption=none&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
 vless://08fefda4-9bec-4f36-b673-8f8e6e60a8ff@uk.gamingbazirani.ir:17297?mode=auto&path=%2Funlimite&security=reality&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=server.ir&fp=chrome&type=xhttp&sni=www.tgju.org&sid=85978f35bcf139b5#IP_CF
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?security=none&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM@AZAFBAYJAB1#IP_CF
 vless://10d9df89-9a20-4110-9711-bca119490ee9@104.21.16.1:80?security=none&sni=masaleini.mahsaamini.dpdns.org&type=ws&host=masaleini.mahsaamini.dpdns.org&path=/TM@AZAFBAYJAB1#IP_CF
