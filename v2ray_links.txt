@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
 vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@netherland.gamingbazirani.ir:600?security=tls&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
 vless://11d0b0d0-28ac-47fb-ab11-5f80e81a26d0@netherland.gamingbazirani.ir:600?security=tls&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&sni=marzban.negintel.xyz#IP_CF
 vless://0a9f614f-c922-4003-84d5-b1488a18e49b@194.182.79.7:19123?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#IP_CF
