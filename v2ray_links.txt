@@ -1,10 +1,10 @@
 VLESS Link:
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=%2F%3Fed%3D2048&host=wWw.SpEeDtEsT.NeT.ZuLa.Ir.IkCoSaLeS.iR.D662599.v19.pronetwork.com#IP_CF
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&type=ws&headerType=&path=&host=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&sni=wwwspeedtestnetwhiteberinsistomd6625996s22.afaghnegwork.ir&fp=#IP_CF
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.223.79:2096?security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s27.qasvaserver.ir#IP_CF
 vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?mode=gun&security=reality&encryption=none&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&type=grpc&sni=yahoo.com&sid=09#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:2226?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=2226vless#IP_CF
+vless://19b6fa27-c968-46be-b980-ca371ff5c0f6@157.90.117.244:50552?mode=gun&security=reality&encryption=none&pbk=NKXHq-QeFgTQWspK15CDrkx3frdLdaXKSIsI-SUl_FY&fp=chrome&type=grpc&sni=yahoo.com&sid=09#IP_CF
 vless://2f29e78d-b32a-40bf-b382-eb99d2a4f33d@www.speedtest.net:8443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=kravel6.azadistadium.com&fp=chrome&type=ws&sni=kravel6.azadistadium.com#IP_CF
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2F&host=nufillter.jtip.sbs.&security=none#IP_CF
 50x84h12i</code><br/><br/><tg-emovless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2F&host=nufillter.jtip.sbs.&security=none#IP_CF
