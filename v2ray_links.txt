@@ -1,13 +1,11 @@
 VLESS Link:
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
-vless://1821e8ff-ef32-4e22-8b6a-37aaa7760e80@65.109.198.214:19720?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#IP_CF
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
 vless://16567455-ddd9-4fb7-868f-591c4ece5c48@two.huntexserver.fun:32547?type=tcp&headerType=http&host=telewebion.com&security=none#IP_CF
 vless://0f8691e2-c289-481b-9dcb-7a4578eab343@[2606:4700:310c::ac42:2f98]:8443?path=%2F8u09qdx1W4DJ4Eeq%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87ae4b92.bEStTtTTIVPn.PAgeS.deV#IP_CF
 vless://16567455-ddd9-4fb7-868f-591c4ece5c48@two.huntexserver.fun:32547?type=tcp&headerType=http&host=telewebion.com&security=none#IP_CF
 vless://0f8691e2-c289-481b-9dcb-7a4578eab343@[2606:4700:310c::ac42:2f98]:8443?path=%2F8u09qdx1W4DJ4Eeq%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87ae4b92.bEStTtTTIVPn.PAgeS.deV#IP_CF
 vless://0f8691e2-c289-481b-9dcb-7a4578eab343@87ae4b92.bestttttivpn.pages.dev:8443?path=%2FbEKAVD5VfOednxo6%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87Ae4B92.BEstTtttIVpN.paGEs.DEV#IP_CF
 vless://0f8691e2-c289-481b-9dcb-7a4578eab343@[2606:4700:310c::ac42:2c68]:8443?path=%2FOoa8En7zbGcfoe4X%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=87ae4b92.bestttttivpn.pages.dev&fp=randomized&type=ws&sni=87aE4b92.BeSTTtTTiVpn.PaGES.dEV#IP_CF
+vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
 vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#IP_CF
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2F&host=nufillter.jtip.sbs.&security=none#IP_CF
 50x84h12i</code><br/><br/><tg-emovless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2F&host=nufillter.jtip.sbs.&security=none#IP_CF
@@ -27,3 +25,5 @@ vless://TELEGRAM-NUFiLTER@195.201.223.212:3070?mode=gun&security=reality&encrypt
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDQuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE5LjMyLjAiLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDMuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0Ijo0NDMsImlkIjoiNDdlYWIwZGUtOTdmOS00OWJlLWYyZjMtMmU0ZWIxNzI2OGU2IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsInBhdGgiOiJcL2FhIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
