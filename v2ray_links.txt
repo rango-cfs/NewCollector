@@ -1,5 +1,4 @@
 VLESS Link:
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.177.39:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135011033.sec21org.com#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
 vless://18c8eb13-2a85-5cf9-8f8f-dc73407709ce@5.180.52.15:443?path=%2Fvless&security=tls&encryption=none&host=5.180.52.15&fp=chrome&type=ws&sni=5.180.52.15#IP_CF
