@@ -1,5 +1,4 @@
 VLESS Link:
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.187.34:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135011033.sec21org.com#IP_CF
 vless://16567455-ddd9-4fb7-868f-591c4ece5c48@two.huntexserver.fun:32547?type=tcp&headerType=http&host=telewebion.com&security=none#IP_CF
 vless://18c8eb13-2a85-5cf9-8f8f-dc73407709ce@5.180.52.15:443?path=%2Fvless&security=tls&encryption=none&host=5.180.52.15&fp=chrome&type=ws&sni=5.180.52.15#IP_CF
