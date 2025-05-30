@@ -1,5 +1,4 @@
 VLESS Link:
-vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
 vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#IP_CF
