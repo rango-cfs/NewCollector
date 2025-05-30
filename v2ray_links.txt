@@ -1,9 +1,7 @@
 VLESS Link:
-vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#IP_CF
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
-vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
+vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:2226?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=2226vless#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2F&host=nufillter.jtip.sbs.&security=none#IP_CF
 50x84h1vless://90bf198f-9810-40c8-cb6f-8d7908b576d3@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&host=nufillter.jtip.sbs.&security=none#IP_CF
@@ -24,3 +22,4 @@ VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDMuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0Ijo0NDMsImlkIjoiNDdlYWIwZGUtOTdmOS00OWJlLWYyZjMtMmU0ZWIxNzI2OGU2IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsInBhdGgiOiJcL2FhIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDIuM01CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjE5OC4xODciLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0=
