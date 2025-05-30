@@ -1,9 +1,8 @@
 VLESS Link:
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
-vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
 vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#IP_CF
 vless://2404f667-5969-4883-a71a-ea2e0db2d25b@104.19.222.79:2096?path=%2F&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s18.africacloud1.ir#IP_CF
 vless://230a8131-dd61-42d7-977b-0f9580edd168@91.92.40.78:2070?security=none&encryption=none&host=%2FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#IP_CF
+vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
 vless://20cdfe1f-832f-4e81-9be4-38b8f7898a6c@188.245.104.160:6893?mode=gun&security=none&encryption=none&authority=Join_Bade_Channel%40JOKERRVPN&type=grpc&serviceName=6893vless#IP_CF
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@djfdd.nexavps.ir:8880?type=httpupgrade&path=%2F&host=nufillter.jtip.sbs.&security=none#IP_CF
@@ -22,6 +21,6 @@ vless://TELEGRAM-NUFiLTER@195.201.223.212:3070?mode=gun&security=reality&encrypt
 %40NUFiLTER%F0%9F%87%B3%F0%9F%87%B1reality2</code><br/><br/><tg-emovless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=nufilterasli.org&type=ws#IP_CF
 
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjoiNTIxODIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDMuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0Ijo0NDMsImlkIjoiNDdlYWIwZGUtOTdmOS00OWJlLWYyZjMtMmU0ZWIxNzI2OGU2IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsInBhdGgiOiJcL2FhIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIifQ==
