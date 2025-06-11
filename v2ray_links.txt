@@ -1,5 +1,4 @@
 VLESS Link:
-vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@31.24.253.96:8443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=0926.qiang2000.link&fp=chrome&type=ws&sni=0926.qiang2000.link#IP_CF
 vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=Apple-SIB.ir&type=ws#IP_CF
 vless://1a79d43f-b41c-496b-a241-dcbeefa81f0e@77.221.159.70:443?path=%2FTelegram%40ShadowProxy66%2F%3Fed%3D2560&security=tls&encryption=none&host=0926.qiang2000.link&fp=chrome&type=ws&sni=0926.qiang2000.link#IP_CF
 vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=Apple-SIB.ir&type=ws#IP_CF
@@ -24,7 +23,6 @@ vless://TELEGRAM-NUFiLTER@91.99.127.0:110?mode=gun&security=reality&encryption=n
 %40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+ws5</pre><br/><br/><tg-emovless://99727208-0086-43f9-f0ad-9e30f546b822@djfdd.nexavps.ir:8880?path=%2F%252Ftelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER%252Ctelegram-NUFiLTER&security=none&encryption=none&host=hamidjon.ddigicyber.click.&type=httpupgrade#IP_CF
 %40NUFiLTER+%F0%9F%87%A9%F0%9F%87%AA+http</pre><br/><br/><tg-emo
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDMuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE3LjEzNy4xMjciLCJwb3J0Ijo0NDMsImlkIjoiNDdlYWIwZGUtOTdmOS00OWJlLWYyZjMtMmU0ZWIxNzI2OGU2IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJoay5uaXNrYWtvd3NraS5nZ2ZmLm5ldCIsInBhdGgiOiJcL2FhIiwiaG9zdCI6ImhrLm5pc2tha293c2tpLmdnZmYubmV0In0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIiLCJob3N0IjoiaGsyLmxyemR4LnVrIn0=
