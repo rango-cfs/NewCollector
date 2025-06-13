@@ -1,7 +1,7 @@
 VLESS Link:
-vless://2b0922a1-77ac-4bb1-9d1c-7178c6aa3add@88.210.9.149:4434?security=reality&encryption=none&pbk=jRReXVS85X0Qm7jovHgNSOyz7BuS7p3iMPE4EfUHRlk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=teamdocs.su&sid=1ae2fd1e1ace9935#IP_CF
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.20.229.37:2083?path=%2F6hJMqM7qNX4VeTTq%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ensholp-91s.pages.dev&fp=randomized&type=ws&sni=ENSHoLP-91S.PAgES.dEV#IP_CF
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.20.229.37:2083?path=%2F6hJMqM7qNX4VeTTq%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ensholp-91s.pages.dev&fp=randomized&type=ws&sni=ENSHoLP-91S.PAgES.dEV#IP_CF
+vless://13baf8e7-b432-4e51-b174-aa08ab42119c@[0000:0000:0000:0000:0000:ffff:b94f:9e97]:8051?security=none&encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&headerType=http&type=tcp#IP_CF
 vless://13baf8e7-b432-4e51-b174-aa08ab42119c@[0000:0000:0000:0000:0000:ffff:b94f:9e97]:8051?security=none&encryption=none&host=%2FChannel%3A%40ShadowProxy66---%40ShadowProxy66---%40ShadowProxy66&headerType=http&type=tcp#IP_CF
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=8080&security=none&encryption=none&host=nufilterasli.org&type=ws#IP_CF
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8080&security=none&encryption=none&host=moradqoli.com&type=ws#IP_CF
