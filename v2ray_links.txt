@@ -1,6 +1,7 @@
 VLESS Link:
-vless://0e74189c-283b-7ef3-4a08-63e997da636b@ir.baziir.ir:1011?security=none&type=tcp&headerType=http&path=%2F%3Fed%3D1011#IP_CF
 vless://323ff1bf-7cc8-4fc3-9194-92026df191a1@turbo.ih0st.com:9920?security=none&encryption=none&headerType=http&type=tcp#IP_CF
+vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@151.101.64.155:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#IP_CF
+vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?mode=stream-one&path=%2Fertyu&security=none&encryption=none&type=xhttp#IP_CF
 vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@151.101.64.155:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#IP_CF
 vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?mode=stream-one&path=%2Fertyu&security=none&encryption=none&type=xhttp#IP_CF
 vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@151.101.64.155:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#IP_CF
