@@ -1,5 +1,4 @@
 VLESS Link:
-vless://22ba0bc4-85fc-4120-96d5-7aea32873f53@huffingtonpost.es:80?mode=auto&path=%2F%40vistav2ray%3Fed%3D2048&security=none&encryption=none&host=vistapcitttt.com&type=xhttp#IP_CF
 vless://19a7a0c0-34c4-476b-80fd-68a28d417c43@66.42.118.140:443?mode=stream-one&path=%2Fertyu&security=none&encryption=none&type=xhttp#IP_CF
 vless://1bc0397c-dca6-4419-b90b-d48cd82d2a4b@Speedtest.net:80?mode=auto&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbede_vmessorg.ir&type=xhttp#IP_CF
 vless://1bc0397c-dca6-4419-b90b-d48cd82d2a4b@Speedtest.net:80?mode=auto&path=%2F%40vmessorg----%40vmessorg-----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg----%40vmessorg%3Fed%3D2480&security=none&encryption=none&host=joinbede_vmessorg.ir&type=xhttp#IP_CF
