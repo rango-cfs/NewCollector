@@ -1,5 +1,4 @@
 VLESS Link:
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@104.18.41.190:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yz.ylka.dpdns.org&type=ws&sni=yz.ylka.dpdns.org#IP_CF
 vless://13d327d5-a7bf-425c-a4e7-5c339f5afdd0@rezashakor.uniquenonstop.space:22921?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://%F0%9F%91%89chanel_JOKERRVPN%F0%9F%91%88@speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=none&encryption=none&host=Loopingshop.com&type=ws#IP_CF
 vless://16e97003-110a-423b-fe25-0dc26485939e@37.27.255.136:8880?security=&type=grpc&encryption=none#IP_CF
