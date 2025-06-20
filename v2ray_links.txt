@@ -1,5 +1,4 @@
 VLESS Link:
-vless://103104c5-a3f5-4c48-8d8f-a72a56959799@104.17.1.5:443?path=%2FaLeWKcOOsNmDaotw%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=zyzzzoao.putata.eu.org&fp=randomized&type=ws&sni=ZYzzZoAO.putata.eU.Org#IP_CF
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#IP_CF
 vless://%F0%9F%91%89JOKERRVPN%F0%9F%91%88@Speedtest.net:80?path=%2F%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2048&security=none&encryption=none&host=Loopingshop.com&type=ws#IP_CF
 vless://1640cca8-8e6d-4173-8014-eadcddafb0a0@speedtest.net:80?mode=auto&path=%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray....%2F%40vistav2ray....%40vistav2ray....%40vistav2ray....%40vistav2ray%3Fed%3D2480&security=none&encryption=none&host=tamash360.com&type=xhttp#IP_CF
