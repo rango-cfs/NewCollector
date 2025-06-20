@@ -1,5 +1,4 @@
 VLESS Link:
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#IP_CF
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.21.113.169:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
 vless://0f68499d-d0d2-4cff-bae5-3082fc2a0aaa@direct.gladservices.ir:1001?security=none&encryption=none&host=sheypoor.com&headerType=http&type=tcp#IP_CF
