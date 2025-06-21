@@ -1,5 +1,4 @@
 VLESS Link:
-vless://1d828176-751a-2700-6a53-08129bd4db2b@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#IP_CF
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#IP_CF
 vless://0e973d4f-fb2d-4d68-8b86-cd53dc6e7525@eir-72.f-sub.cfd:2398?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.com#IP_CF
 vless://2657b843-1595-49b7-9598-d164c44730b1@good.srvice.shop:30275?security=none&encryption=none&headerType=none&type=tcp#IP_CF
