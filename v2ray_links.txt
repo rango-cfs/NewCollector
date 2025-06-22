@@ -1,5 +1,4 @@
 VLESS Link:
-vless://000273dd-8af5-4c53-b47b-c3c49bcf9e2a@151.101.3.8:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi7.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://0068c687-73ef-4a2d-b849-f26e8afe43c2@api.rainblu.ir:8081?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://1f4b4e6f-8af4-4cdf-98a2-f31b4c07c824@Speedtest.net:80?flow=&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&security=none#IP_CF
 vless://1d828176-751a-2700-6a53-08129bd4db2b@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#IP_CF
