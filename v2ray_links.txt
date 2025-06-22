@@ -1,5 +1,4 @@
 VLESS Link:
-vless://000273dd-8af5-4c53-b47b-c3c49bcf9e2a@151.101.3.8:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi7.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.173.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.173.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://1f4b4e6f-8af4-4cdf-98a2-f31b4c07c824@Speedtest.net:80?flow=&type=xhttp&host=joinbede_vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&mode=auto&security=none#IP_CF
@@ -30,3 +29,4 @@ vmess://eyJ2IjoiMiIsInBzIjoiRW1lcmdlbmN5XHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGXHUy
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAyLjEzMi4xODguMyIsInBvcnQiOiI4MCIsImlkIjoiZTk1ZTM1YmEtZjg3NC00ZWIzLTk2MDAtNGRiZDZkMDk5ZjRlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Img0LmdyQXNTb1J5LnNob3AiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTAyLjE3Ny4xODkuMzAiLCJwb3J0IjoiODAiLCJpZCI6IjAwMDEzZWM1LTE5M2MtNGZhMS1iYjFjLTk5ODgzYTk3NGJiMCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoMy5nckFzU29SeS5zaG9wIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiI1OTU1NCIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjI2LjEzLjkiLCJwb3J0IjoiODAiLCJpZCI6ImU5NWUzNWJhLWY4NzQtNGViMy05NjAwLTRkYmQ2ZDA5OWY0ZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJoNC5nckFzU29SeS5zaG9wIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
