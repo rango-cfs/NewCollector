@@ -1,9 +1,8 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.159.113:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://008ed7c3-29a6-4187-a1a9-84a4533705a8@online.slashve.info:45468?type=tcp&headerType=http&host=iRaNserVeR.cOm&path=/&security=none#IP_CF
+vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#IP_CF
 vless://0742d3cb-f567-4075-a479-d15dcc7a3ece@gertu.topvmmarket.shop:2086?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#IP_CF
 vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
 %40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20tcp2</code><br/><br/><tg-emovless://9fdb03a7-f46d-4b75-f386-adae42abcbfc@91.99.165.192:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=TiKdar.Motorphrotan.iR&type=ws#IP_CF
@@ -18,4 +17,5 @@ vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?security=none&encryption=none&host
 %40NUFiLTER%20%F0%9F%87%BA%F0%9F%87%B8reality</code><br/><br/><tg-emovless://57a95e4e-0cce-4bf9-e205-18e91bf32871@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro&fp=randomized&type=ws&sni=nl2.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro#IP_CF
 %40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20ws%20irancell</code><br/><br/><tg-emovless://57a95e4e-0cce-4bf9-e205-18e91bf32871@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram…</di
 VMESS Link:
-vmess://eyJhZGQiOiIxMDQuMTcuMTc2LjE3MSIsImFpZCI6MCwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwiaWQiOiI2Y2JjOWM3OC0xY2IxLTU3ZDQtYTk5OS1lMmY0ZTM0YzFlMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL25hc25ldFwvY2RuIiwicG9ydCI6ODA4MCwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjoiMzEyMDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTIwLjIzMi4xNTMuNDAiLCJwb3J0IjoiMzEyMDkiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
