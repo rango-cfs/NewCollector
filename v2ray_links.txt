@@ -4,9 +4,8 @@ vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?encryption=none&se
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.77.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://0f608156-ecc4-4ee0-8cd4-e5e6d1c891ab@speedtest.net:80?mode=auto&path=%2F%40BeFreeWithUs%3Fed%3D2048&security=none&encryption=none&host=kiosyour-name.global.ssl.fastly.net&type=xhttp#IP_CF
-vless://397f9bb8-9d73-419d-f216-141262ea07de@89.34.230.165:27433?security=reality&encryption=none&pbk=rMS-Z-21leNq4TB94xXNrieTjzyoahRB1KHMKMYwUis&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=rEfErSion.Com#IP_CF
-%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AAreality</code><br/><br/><tg-emovless://5f566fbf-13bc-4312-ae37-ea173c4ef4bb@89.34.230.246:14116?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
-%40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20tcp</code><br/><br/>vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.159.113:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
+vless://TELEGRAM-NUFiLTER@89.34.230.225:58967?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
 %40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20tcp2</code><br/><br/><tg-emovless://9fdb03a7-f46d-4b75-f386-adae42abcbfc@91.99.165.192:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=TiKdar.Motorphrotan.iR&type=ws#IP_CF
 %40NUFiLTER%20%F0%9F%87%A9%F0%9F%87%AA%20ws</code><br/><br/><tg-emovless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:1717?mode=gun&security=none&encryption=none&type=grpc&serviceName=1717vless#IP_CF
 %40NUFiLTER%20%F0%9F%87%AE%F0%9F%87%B71<br/><br/>vless://0fdc2aac-e3bd-48c2-b2d5-32c52faea9e0@85.133.215.24:2226?mode=gun&security=none&encryption=none&type=grpc&serviceName=2226vless#IP_CF
