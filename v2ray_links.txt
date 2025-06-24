@@ -5,6 +5,7 @@ vless://04e394cd-fa26-44b9-afc8-817383557eba@151.101.66.219:80?type=xhttp&path=%
 vless://00671ca5-d3ba-46cf-839a-22f61f9d2ce4@151.101.0.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=zedmodeon98.global.ssl.fastly.net&type=xhttp#IP_CF
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiODIuMTUyLjE2NS4yIiwicG9ydCI6IjIxOTYxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI3OWQyNDY4LWI2MDYtMzgwMy1hODYzLWZiYzhmNWM0ZDFhYSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiMTExMS0yMjIyLjAwNTEuYmJiYi1jbG91ZC1jZG5hLWFwaWEtZ3dzZC1hYWFhLWFhYmIuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
