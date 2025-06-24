@@ -1,5 +1,4 @@
 VLESS Link:
-vless://2eab3d30-efe9-4fcc-9a77-627795758309@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#IP_CF
 vless://2eab3d30-efe9-4fcc-9a77-627795758309@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://029d3375-361d-4f22-8213-b0dc0b3ff4e9@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
