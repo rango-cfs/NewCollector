@@ -1,5 +1,4 @@
 VLESS Link:
-vless://12d124c5-3573-4a98-9784-bcb78e80bbf5@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#IP_CF
 vless://029d3375-361d-4f22-8213-b0dc0b3ff4e9@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.94.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://04e394cd-fa26-44b9-afc8-817383557eba@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
