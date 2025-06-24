@@ -1,11 +1,11 @@
 VLESS Link:
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#IP_CF
 vless://029d3375-361d-4f22-8213-b0dc0b3ff4e9@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.94.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://14c76f43-4f8d-40ef-9920-705fb762c9a4@151.101.3.8:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=amirasilzase.global.ssl.fastly.net&type=xhttp#IP_CF
 vless://029d3375-361d-4f22-8213-b0dc0b3ff4e9@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
 vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?path=%2F&security=none&encryption=none&host=befreewithus.net&type=ws#IP_CF
-vless://57a95e4e-0cce-4bf9-e205-18e91bf32871@all.4qwertyuiopasdfghjklzxcvbnmmnbvcxzlkjhgfdsapoiuytrewq1234567890.pro:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram…</di
+vless://029d3375-361d-4f22-8213-b0dc0b3ff4e9@151.101.66.219:80?type=xhttp&path=%2FTelegram%40viturey%3Fed%3D2048&host=bpi8.global.ssl.fastly.net&mode=auto&security=none#IP_CF
+
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjE2LjIyNy4xNjguMTU3IiwicG9ydCI6IjQ1MjMxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQ2OWUwYjMxLTMwYzMtNGRhYi04MDBkLTcxMTIzMjYzNGNlMSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoibHQuZnhsY24uY29tIiwidGxzIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiOSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiIyazVwaXdsd3hnIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjJrNXBpd2x3eGctMjU5MTM0MTU3LmtoYXN0ZWhuYWJhc2hpLmNvbSIsInBhdGgiOiJcL2F2b3JvXC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
