@@ -1,5 +1,4 @@
 VLESS Link:
-vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.94.60:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://22f493aa-cab4-4040-bef1-c3a5d4418b3b@185.39.204.29:443?security=reality&sni=google.com&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&type=tcp&encryption=none#IP_CF
 vless://1b8df49d-cd7e-456f-adc6-76974001e05f@ens.zdshop.ir:80?security=none&encryption=none&headerType=none&type=tcp#IP_CF
