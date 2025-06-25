@@ -1,6 +1,7 @@
 VLESS Link:
 vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#IP_CF
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#IP_CF
+vless://1f431db3-1918-4e7b-a855-c93485e11694@104.16.103.250:80?encryption=none&security=none&sni=pari.parinazz.dpdns.org&fp=random&type=ws&host=pari.parinazz.dpdns.org&path=%2F%3Fed%3D2560#IP_CF
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiNSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJtczVmdTY2b2ZzIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Im1zNWZ1NjZvZnMtNDUxNTAxNzQ3Ny5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
