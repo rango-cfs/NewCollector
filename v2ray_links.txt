@@ -4,6 +4,7 @@ vless://064ba335-b5f7-4bd8-83b7-81255581b220@185.29.223.151:2083?security=none&e
 vless://112e4e31-1cab-446c-8be4-c416f3b5470b@ir8.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir8.boilersforpellets.com&type=ws&sni=ir8.boilersforpellets.com#IP_CF
 vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#IP_CF
 vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#IP_CF
+vless://064ba335-b5f7-4bd8-83b7-81255581b220@185.29.223.151:2083?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoicHJvZDAyLWxiMDItY2xvdWQwMS5jeWJlcnNjYWxlci5jb20iLCJwb3J0IjoiMzM2NzgiLCJpZCI6ImRmM2EwNDU0LTBhMmMtNGNhZS1iYTBmLWM1NjQyNmNiMDg3MCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Imh0dHAiLCJob3N0Ijoid3d3LnNwZWVkdGVzdC5uZXQiLCJwYXRoIjoiXC8iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
