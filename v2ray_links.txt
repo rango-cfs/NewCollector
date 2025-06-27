@@ -1,6 +1,4 @@
 VLESS Link:
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#IP_CF
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IP_CF
 vless://12d2ea1a-758c-cf10-8897-a30c6e06f0c9@151.101.3.8:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=vmeesssrtrtreqda.com&type=xhttp#IP_CF
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@104.17.134.206:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&fp=chrome&type=xhttp&sni=drive.speegy.club#IP_CF
 vless://12d2ea1a-758c-cf10-8897-a30c6e06f0c9@151.101.3.8:80?mode=auto&path=%2F%3Fed%3D2048&security=none&encryption=none&host=vmeesssrtrtreqda.com&type=xhttp#IP_CF
