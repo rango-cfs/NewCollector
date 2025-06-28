@@ -5,6 +5,7 @@ vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&enc
 vless://19d8dc59-1201-48ca-8b91-a5b75ead89ec@grizzly.grizzlyshoppp.shop:6235?type=tcp&path=%2F&host=anten.ir&headerType=http&security=none#IP_CF
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.149.12.251:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=&encryption=none&host=cf.d3z.net&type=ws#IP_CF
 vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#IP_CF
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#IP_CF
 vless://2c8aaf87-b1e3-4fc6-915b-0e48a26b1cd6@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#IP_CF
 %5B%F0%9F%87%B1%F0%9F%87%BA%5Dt.me%2FNUFiLTER<br/><br/>vless://0788f940-bc79-4438-9553-ac469844469d@test.fast.hosting-ip.com:80?mode=auto&security=none&encryption=none&type=xhttp#IP_CF
 %5B%F0%9F%87%B1%F0%9F%87%BA%5Dt.me%2FNUFiLTER%20%282%29</code><br/><br/><tg-emo
