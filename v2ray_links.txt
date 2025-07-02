@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0592915a-65da-4cd5-9960-cb9329a3c8a1@alman7.turbooserver.ir:55066?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#IP_CF
 vless://112e4e31-1cab-446c-8be4-c416f3b5470b@ir8.boilersforpellets.com:443?path=%2F&security=tls&encryption=none&host=ir8.boilersforpellets.com&type=ws&sni=ir8.boilersforpellets.com#IP_CF
 vless://0cc731b9-0375-4590-aeaa-7e2611a149fe@104.21.36.57:443?path=%2Fwsv%2F0cc731b9-0375-4590-aeaa-7e2611a149fe&security=tls&encryption=none&host=black.fullmargintraders.com&fp=firefox&type=ws&sni=black.fullmargintraders.com#IP_CF
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#IP_CF
