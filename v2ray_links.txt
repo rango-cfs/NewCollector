@@ -1,5 +1,4 @@
 VLESS Link:
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.187.134:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.121.254.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
 vless://%F0%9F%91%89TELEGRAM___JOKERRVPN%F0%9F%91%88@104.18.26.90:80?path=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560&security=none&encryption=none&host=joKer.Ahang-Alpha.IR&type=httpupgrade#IP_CF
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.47.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#IP_CF
