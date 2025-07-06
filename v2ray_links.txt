@@ -1,7 +1,4 @@
 VLESS Link:
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#IP_CF
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?security=none&encryption=none&host=hl.ylka.dpdns.org&type=ws&sni=hl.ylka.dpdns.org#IP_CF
-vless://012bcb20-421c-434c-8fd0-2c4d564a103e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872445251926601.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872445251926601.kish-prx-dnraaaf.info&path=/cazskiws#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@45.67.215.165:443?security=none&encryption=none&host=hl.ylka.dpdns.org&type=ws&sni=hl.ylka.dpdns.org#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@62.60.229.240:9443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rb.ylks0033.dpdns.org&type=ws&sni=rb.ylks0033.dpdns.org#IP_CF
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#IP_CF
