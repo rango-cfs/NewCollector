@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?security=&encryption=none&headerType=&type=tcp#IP_CF
 vless://%F0%9F%91%89TELEGRAM___JOKERRVPN%F0%9F%91%88@104.18.26.90:80?path=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560&security=none&encryption=none&host=joKer.Ahang-Alpha.IR&type=httpupgrade#IP_CF
 vless://107088af-d5a1-4612-8641-a83e0e13c81e@www.speedtest.net:2096?encryption=none&security=tls&sni=638872443451943398.kish-prx-dnraaaf.info&type=ws&alpn=h3h2&host=638872443451943398.kish-prx-dnraaaf.info&path=/oiakdrws#IP_CF
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@62.60.229.240:9443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rb.ylks0033.dpdns.org&type=ws&sni=rb.ylks0033.dpdns.org#IP_CF
