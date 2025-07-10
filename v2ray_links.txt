@@ -140,5 +140,4 @@ MCI-%40Tunder_vpn</code></blockquote><br/><br/>کانفیvless://d038293f-e9ca-4
 %40Tunder_vpn<br/><br/>vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#IP_CF
 %40Tu</code>nder_vpn</blockquote><br/><br/>
 VMESS Link:
-vmess://eyJhZGQiOiJzc3NjY3ZmYmdoLjQ0NDQ5MjYueHl6IiwiYWlkIjowLCJob3N0Ijoic3NzY2N2ZmJnaC40NDQ0OTI2Lnh5eiIsImlkIjoiZjg5OGZmY2ItNjQxNy00MzczLTk2NDAtMGI2NjA5MWU4MjA2IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9HbkozYkJ4VjkxdUZrWXR1elh5SjVYTmVIMVIxIiwicG9ydCI6ODAsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiOC4yMTEuMTQ1LjE0NiIsInBvcnQiOiIyMzg5IiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoia2NwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6IjlmOWYzOTViLWU5YjItNGNmZC04NWIzLTA0MjVmMGUxMWFkNyIsInNuaSI6IiJ9
