@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#IP_CF
 vless://%F0%9F%91%89TELEGRAM___JOKERRVPN%F0%9F%91%88@104.18.26.90:80?path=%2FTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560&security=none&encryption=none&host=joKer.Ahang-Alpha.IR&type=httpupgrade#IP_CF
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=ipcloudflaretamiz.io&type=xhttp#IP_CF
