@@ -1,5 +1,4 @@
 VLESS Link:
-vless://010ddaac-7bac-4dcc-a353-215d01feb06e@116.203.75.81:36313?type=grpc&serviceName=&security=reality&fp=chrome&pbk=UKw4crSzH0M3eceNPmo4bNs4NyIfhaCUEMi52k6J5DI&sni=khor.sarezh.click&sid=c74cb910&spx=%2F#IP_CF
 vless://00e92112-b43b-4757#IP_CF
 vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#IP_CF
 vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=tls&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#IP_CF
