@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00e92112-b43b-4757#IP_CF
 vless://---WLFVPN---@WLF-V-P-N-ID2.dnsfree.one:443?type=tcp&security=reality&headerType=none&fp=firefox&sni=www.yahoo.com&flow=xtls-rprx-vision&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&sid=6bb85179e30d4fc2#IP_CF
 vless://00e92112-b43b-4757#IP_CF
 vless://00db004a-7ae7-400d-b7c3-f6ab2f3f1edc@london.gpairnetwork369.de:6839?security=none&type=tcp&headerType=&path=&host=#IP_CF
