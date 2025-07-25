@@ -1,5 +1,4 @@
 VLESS Link:
-vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&encryption=none&headerType=http&type=tcp#IP_CF
 vless://-VPNCUSTOMIZE-@fishlab.ucdavis.edu:443?path=%2F%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE-----%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE---%40VPNCUSTOMIZE%3Fed%3D2560&security=tls&host=JoinBedeeeeee--VPNCUSTOMIZE.ir.&type=ws&sni=fishlab.ucdavis.edu#IP_CF
 vless://---Parsashonam--10-@www.speedtest.net:8080?path=%2FTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam&security=none&encryption=none&host=test1.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.website&type=ws#IP_CF
 vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706376779.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706376779.amsterdam-prx-dnraaal.info&path=/gflzprws#IP_CF
