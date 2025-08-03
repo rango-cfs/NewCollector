@@ -1,7 +1,8 @@
 VLESS Link:
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@162.120.94.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/Telegram#IP_CF
 vless://---Parsashonam--10-@www.speedtest.net:8080?path=%2FTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam%2CTelegram%3A%40Parsashonam&security=none&encryption=none&host=test1.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.website&type=ws#IP_CF
 vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&encryption=none&headerType=http&type=tcp#IP_CF
+vless://--------NORBERT-VPN--------@46.245.66.198:1232?security=none&encryption=none&headerType=http&type=tcp#IP_CF
+vless://%40narcod_ping@85.133.228.198:41546?type=tcp&path=%2F&host=varzesh3.com&headerType=http&security=none#IP_CF
 vless://88633e30-ac96-4be0-98f4-c9f6b9d7fe96@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=Manian.motorphrotan.ir.&type=ws#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE</code><br/><br/>vless://TELEGRAM-CONFiGLiNE@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=narenji.motorphrotan.ir.&type=httpupgrade#IP_CF
 %5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE</code><br/><br/>vless://0d3d9e3a-0fc3-4a0d-8d6d-e8663114c475@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8880&security=none&encryption=none&host=LsUs.Motorphrotan.ir.&type=ws#IP_CF
