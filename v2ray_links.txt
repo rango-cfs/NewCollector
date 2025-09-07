@@ -1,5 +1,4 @@
 VLESS Link:
-vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=%2F&security=none&encryption=none&host=locationbasedservicesturkeyadakmepfoqmwedoqimweopdim.okatestoka.ir&type=httpupgrade#IP_CF
 vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#IP_CF
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://101eb13d-1f71-49c8-a46a-7fea72d96a5d@165.22.240.200:80?path=%2FFREE%20By%20Tharuwa%20%280767597317%29&security=none&encryption=none&host=zoom.us&type=ws#IP_CF
@@ -28,14 +27,7 @@ vless://TELEGRAM-CONFiGLiNE@95.111.204.50:80?mode=gun&security=reality&encryptio
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%283%29</code><br/>vless://TELEGRAM-CONFiGLiNE@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=mastokhiar2.com&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%284%29</code><br/>vless://TELEGRAM-CONFiGLiNE-2@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=abazsaargozashteh.com&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%285%29</code><br/>vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=eee65.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg&fp=firefox&allowinsecure=0&type=ws&sni=eee65.2SeDkFjEuIxIjD0eW9DvKcXoIsIeK31.BlOg#IP_CF
-%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE</code><br/>vless://3d7dd548-5456-4f28-8019-393fbfab3312@172.67.74.133:443?path=%2Fsg3%2F%3Fed%3D2048JOIN---PLANB_PROXY&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#IP_CF
-%40Tunder_vpn<br/><br/>vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&encryption=none&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=200f99e321#IP_CF
-%40Tunder_vpn<br/><br/>vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F&security=tls&encryption=none&host=hetzner-12.apple.name.ng&type=ws&sni=hetzner-12.apple.name.ng#IP_CF
-%40Tunder_vpn<br/><br/>vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.145.167:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#IP_CF
-%40Tunder_vpn<br/><br/>vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@104.18.12.229:2087?path=%2F&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=chrome&type=ws&sni=vl.hongkong6.qzz.io#IP_CF
-%40Tunder_vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvaFM2RGdWUng4R0t5ck80VW94ZFc2@77.83.246.74:443#IP_CF
-%40Tunder_vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/><b>تمvless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=%40UCIRANIR%40UCIRANIR%40Silver_v2ray#IP_CF
+%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE</code><br/>vless://b77d5b7a-c15f-40e3-b510-d6b9c45fbc17@46.101.76.246:24256?mode=gun&security=none&encryption=none&authority=drive.google.com&type=grpc&serviceName=%40UCIRANIR%40UCIRANIR%40Silver_v2ray#IP_CF
 %40Tunder_vpn%20ALL<br/><br/>vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 %40Tunder_vpn<br/><br/>vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 %40Tunder_vpn<br/><br/>vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?path=%2Fyfwhodws&security=tls&encryption=none&type=ws#IP_CF
@@ -139,7 +131,8 @@ vless://TELEGRAM-CONFiGLiNE@95.111.204.50:80?mode=gun&security=reality&encryptio
 %40Tunder_vpn<br/><br/>hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#IP_CF
 %40Tunder_vpn<br/><br/>vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@188.225.80.14:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#IP_CF
 %40Tunder_vpn</code></blockquote><br/><br/>vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#IP_CF
-&v2ray_cartel-رایگان-نامحدودچ</a></div></div><d
+&v2ray_cartel-رایگان-نامحدودچ</a></div></div><dvless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#IP_CF
+&v2ray_cartel-رایگان-نامحدودچ</di
 VMESS Link:
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
