@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00a87d0f-6eb9-4b10-9793-7b8bd4553617@63.141.128.31:80?path=%2FJoin-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#IP_CF
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws&sni=maxnetvipap-cloud252.netkh3.site#IP_CF
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws&sni=maxnetvipap-cloud252.netkh3.site#IP_CF
 vless://2a39bf1c-b568-46ef-90db-c2c9207da834@172.66.40.99:80?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=az181.dr-mojtaba.ir&type=ws#IP_CF
