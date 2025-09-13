@@ -1,5 +1,4 @@
 VLESS Link:
-vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#IP_CF
 vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#IP_CF
 vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#IP_CF
