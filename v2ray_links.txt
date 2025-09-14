@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.221.2:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#IP_CF
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#IP_CF
 vless://%40Geek_Spot@176.97.210.2:37589/?type=tcp&encryption=none#IP_CF
