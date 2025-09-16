@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#IP_CF
 vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 vless://0711cb9e-5925-4425-b59d-eae99375fa27@91.99.196.0:443?mode=gun&security=none&encryption=none&type=grpc#IP_CF
@@ -154,3 +153,4 @@ vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegr
 %40Tunder_vpn</code></blockquote><br/><br/><b>
 VMESS Link:
 vmess://eyJhZGQiOiJzZXJrYXQub3JnIiwiYWlkIjoxLCJob3N0Ijoic2Vya2F0Lm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOjQ0MywicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOjEsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieWljaHVlbmcub3JnIn0=
