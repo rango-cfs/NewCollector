@@ -1,5 +1,4 @@
 VLESS Link:
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&type=ws&path=%2f#IP_CF
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=none&encryption=none&type=ws#IP_CF
 vless://00fcbecb-d832-40a0-b2b1-76bb56df166b@104.248.193.151:443?path=%2FFree-VPN-CF-Geo-Project%2FNL10&security=tls&encryption=none&host=joss.krikkrik.tech&fp=randomized&type=ws&sni=joss.krikkrik.tech#IP_CF
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&host=Join---PLANB-PROXY&type=xhttp#IP_CF
@@ -141,3 +140,4 @@ vless://TELEGRAM-CONFiGLiNE@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegr
 VMESS Link:
 vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOjEsImhvc3QiOiJ5aWNodWVuZy5vcmciLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoieWljaHVlbmcub3JnIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoibGFtbWFsYW5kLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6ImxhbW1hbGFuZC5vcmciLCJwYXRoIjoibGlua3Z3cyIsInRscyI6InRscyIsInNuaSI6ImxhbW1hbGFuZC5vcmciLCJhbHBuIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDUuOTQuNjguMTc5IiwicG9ydCI6IjM0MTAzIiwiaWQiOiJmMDgzNDI3Zi05ZDhiLTQ4NjMtYjRhNS1mYzE1MjU1NTQ3ZDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImFsbG93SW5zZWN1cmUiOjF9
