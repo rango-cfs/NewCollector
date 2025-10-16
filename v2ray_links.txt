@@ -1,6 +1,4 @@
 VLESS Link:
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#IP_CF
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#IP_CF
 vless://01996d6c-ca12-a514-1884-58805e80e2c9@104.26.12.31:443?path=%2Fsnippets%3Fip%3Dproxyip%3Aport%28443%29&security=tls&encryption=none&host=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn&type=ws&sni=000091gm0s8g08211s2q.rjp.3jrlr9edbfkg.s0add.dl24k.ghz.krcipuw0kx.vztx9qx.1luaw5rro.4sztyya.guarx48okfdavgn0i245is5g86r359.neib.cn#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#IP_CF
 vless://%40Geek_Spot@176.97.210.2:37589?security=&encryption=none&headerType=&type=tcp#IP_CF
