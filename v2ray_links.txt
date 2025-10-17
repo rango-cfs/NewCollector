@@ -1,5 +1,4 @@
 VLESS Link:
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2f#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&type=tcp&headerType=none&path=%2f#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&type=tcp&headerType=none&path=%2f#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#IP_CF
