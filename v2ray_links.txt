@@ -1,5 +1,4 @@
 VLESS Link:
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#IP_CF
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.159.196.127:25670?encryption=none&security=none&type=tcp&headerType=none#IP_CF
 vless://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.159.196.127:25670?encryption=none&security=none&type=tcp&headerType=none#IP_CF
@@ -126,3 +125,4 @@ Tunder_vpn</code></blockquote><br/><br/>vless://64d6d0d4-3706-4837-b154-cda2816a
 %40Tunder_vpn</code></blockquote><br/><br/>
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiZmFwZW5nLm9yZyIsInBvcnQiOiI0NDMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsImFpZCI6IjEiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJmYXBlbmcub3JnIiwicGF0aCI6Imxpbmt2d3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJmYXBlbmcub3JnIiwiYWxwbiI6IiJ9
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ1LjIzMS4xMzIuNDYiLCJwb3J0Ijo0NTk3OSwiaWQiOiIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiJcL3Rlc3QiLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
