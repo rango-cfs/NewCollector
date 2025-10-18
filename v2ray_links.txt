@@ -1,5 +1,4 @@
 VLESS Link:
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&type=tcp&path=%2f#IP_CF
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.159.196.127:25670?encryption=none&security=none&type=tcp&headerType=none#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?path=%2f#IP_CF
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@18.159.196.127:25670?encryption=none&security=none&type=tcp&headerType=none#IP_CF
