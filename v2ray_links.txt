@@ -1,10 +1,9 @@
 VLESS Link:
-vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?security=tls&encryption=none&sni=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&host=asl-uwiisjjsjdjd-7665.pages.dev&path=%2fevcszpmoerkdnesg%3fed%3d2560#IP_CF
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&path=%2f#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268/?type=tcp&encryption=none#IP_CF
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443/?type=ws&encryption=none&flow=&host=v2ray.codefyinc.com&path=%2Fvlessws&security=tls&sni=v2ray.codefyinc.com&fp=chrome#IP_CF
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?security=tls&encryption=none&sni=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&host=asl-uwiisjjsjdjd-7665.pages.dev&path=%2fevcszpmoerkdnesg%3fed%3d2560fp%3dchrome#IP_CF
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?security=tls&encryption=none&sni=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&host=asl-uwiisjjsjdjd-7665.pages.dev&path=%2fevcszpmoerkdnesg%3fed%3d2560fp%3dchrome#IP_CF
+vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?security=tls&encryption=none&sni=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&host=asl-uwiisjjsjdjd-7665.pages.dev&path=%2fevcszpmoerkdnesg%3fed%3d2560#IP_CF
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?security=tls&encryption=none&sni=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&host=asl-uwiisjjsjdjd-7665.pages.dev&path=%2fevcszpmoerkdnesg%3fed%3d2560#IP_CF
 vless://TELEGRAM-CONFiGLiNE-bia@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=configlinechannel2.com&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%282%29</code><br/>vless://TELEGRAM-CONFiGLiNE-bya@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=vipconfiglines2.com&type=xhttp#IP_CF
