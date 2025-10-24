@@ -1,6 +1,5 @@
 VLESS Link:
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2f#IP_CF
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&type=tcp&headerType=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2f#IP_CF
 vless://0481141b-2807-48f9-8ebc-0b405d2f7d00@asl-uwiisjjsjdjd-7665.pages.dev:443?path=%2Fevcszpmoerkdnesg%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=asl-uwiisjjsjdjd-7665.pages.dev&fp=chrome&type=ws&sni=asl-uwiisjjsjdjd-7665.pages.dev#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#IP_CF
 vless://0033fda5-029e-4de3-acea-3bd45a1912e2@156.244.41.221:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=aws.amazon.com&fp=chrome&pbk=K195x6sAmXL2K_9fSwMsPR8uqYF7UISl1ehaTjNhEz0&type=tcp&headerType=none&path=%2f#IP_CF
