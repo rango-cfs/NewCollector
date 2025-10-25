@@ -1,10 +1,9 @@
 VLESS Link:
-vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&spx=/&type=tcp&headerType=none&path=/#IP_CF
-vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&spx=/&type=tcp&headerType=none&path=/#IP_CF
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&type=tcp#IP_CF
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96#IP_CF
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96#IP_CF
+vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
 vless://aaacd8b4-fcee-4033-ad48-d33533bdb69b@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CON…</divless://TELEGRAM-CONFiGLiNE@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=vipconfiglines.com&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE</code><br/>vless://TELEGRAM-CONFiGLiNE@CONFiGLiNE.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=vipconfiglines.com&type=xhttp#IP_CF
