@@ -1,5 +1,4 @@
 VLESS Link:
-vless://02efda19-4437-4d67-ad4f-3ca613dd80b1@kifpool.me:443?path=/kuF4zJYa4FBeudGb?ed=2560&security=tls&encryption=none&host=mdrN.paGes.Dev&type=ws&sni=mdrN.paGes.Dev#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
 vless://02bbbec4-8e6e-4ea8-982f-cdcac3541f09@109.122.197.72:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=ya.ru&fp=chrome&pbk=UpO0lV2YR0otf1jQKLHDp2bD623tyUIefqCLGm04a2Q&sid=a8237269c785d443&spx=/&type=tcp&headerType=none&path=/#IP_CF
