@@ -1,6 +1,5 @@
 VLESS Link:
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&spx=/&type=tcp&headerType=none&path=/#IP_CF
-vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&spx=/&type=tcp&headerType=none&path=/#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=ad.mail.ru&fp=chrome&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96&spx=/TELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&headerType=none&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&path=/#IP_CF
 vless://0417be58-2ea8-49de-8083-9eff9b0137e5@209.126.84.189:443?type=ws&encryption=none&host=v2ray.codefyinc.com&path=/vlessws&security=tls&sni=v2ray.codefyinc.com&fp=chrome#IP_CF
