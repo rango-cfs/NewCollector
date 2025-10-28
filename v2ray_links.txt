@@ -1,5 +1,4 @@
 VLESS Link:
-vless://078534af-d6e0-453a-80e0-c61de7e98b81@socialup.live:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=JxP4rmXkxYRzWvGW6cBI1FbMBdCk1D8183Hvzn-63mo&sid=99a88f5b#IP_CF
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?encryption=none&type=tcp#IP_CF
