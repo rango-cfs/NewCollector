@@ -1,5 +1,4 @@
 VLESS Link:
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://03ed82a4-0dea-46f6-c360-e8f9b52a1fe1@178.62.38.217:2096?type=grpc&encryption=none&security=reality&pbk=_BSvscSk78rGaJGR37oPCezKH0jfztKtdCOj9rRZGFY&fp=chrome&sni=zula.ir&spx=/#IP_CF
 vless://078534af-d6e0-453a-80e0-c61de7e98b81@socialup.live:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=JxP4rmXkxYRzWvGW6cBI1FbMBdCk1D8183Hvzn-63mo&sid=99a88f5b#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
@@ -118,5 +117,5 @@ Tunder_vpn</code></blockquote><br/><br/>vless://64d6d0d4-3706-4837-b154-cda2816a
 %40Tunder_vpn<br/>vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.217:8880?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 %40Tunder_vpn</code></blockquote><br/><br/>تم
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTQwLjIzOC4yLjI1MCIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5vZGUyLm1hbmdnaW5nLmNvbSIsInBvcnQiOjEwMDU1LCJpZCI6IjM1M2Q0YzEzLWE3NTYtNDZkZC1iYTZmLTNkZmVjZmViMzdmYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6IlwvIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGx9
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjguMjEwLjUyLjIxMSIsInBvcnQiOjIwNTIyLCJpZCI6IjM3ODI3MDM2LTFmYzUtNDFlYS05ZmM1LTExMWFmMWRiNDlkYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6IlwvdGVsZWdyYW1fQHNzd2lhIiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
