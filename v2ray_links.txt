@@ -1,5 +1,4 @@
 VLESS Link:
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2087?encryption=none&security=tls&sni=DdLxDxZc3.VeLiNtO.OrG&type=ws&alpn=h3h2&host=DdLxDxZc3.VeLiNtO.OrG&path=/#IP_CF
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&type=ws&sni=DfVrMvWc2.SoLeRiOs.nEt#IP_CF
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=DdLxDxZc1.VeLiNtO.OrG&type=ws&alpn=h3h2&host=DdLxDxZc1.VeLiNtO.OrG&path=/#IP_CF
