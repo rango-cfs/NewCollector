@@ -1,6 +1,7 @@
 VLESS Link:
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638975337676447591.lisbon-blkaft-aabc.info:8880?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@638978804870440651.copenhagen-blkaft-aabc.info:8880?type=grpc&path=/#IP_CF
+vless://15d114ee-c814-47c7-bd12-fab0c7a0128e@94.232.247.117:8880?mode=gun&security=none&encryption=none&type=grpc#IP_CF
 vless://TELEGRAM-CONFiGLiNE-18@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=yousof.global.ssl.fastly.net&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%283%29</code><br/>vless://TELEGRAM-CONFiGLiNE-18@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=panelvipasli.io&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE</code><br/>vless://TELEGRAM-CONFiGLiNE-20@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=googoolimagooli.com&type=xhttp#IP_CF
