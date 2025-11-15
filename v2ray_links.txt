@@ -1,6 +1,4 @@
 VLESS Link:
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=/&security=none&encryption=none&type=ws#IP_CF
-vless://104407b9-90fa-4e50-be75-f34e7dad5c95@its.sportfast0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=its.sportfast0.ir#IP_CF
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&path=/#IP_CF
 vless://129638fe-f846-4cdb-b466-52f314acdb64@arashnet.golebahari.sbs:26908?security=reality&type=grpc&serviceName=ArezooAref&mode=gun&sni=cloudflare.com&fp=chrome&pbk=Q9WvnJZrDk4mgMQjW5Y5MhheZYs4G6hBCj_gXya1iEw&sid=cbee1ee564#IP_CF
 vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#IP_CF
