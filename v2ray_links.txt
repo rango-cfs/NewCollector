@@ -1,7 +1,6 @@
 VLESS Link:
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=/&security=none&encryption=none&type=ws#IP_CF
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=/&security=none&encryption=none&type=ws#IP_CF
 vless://0b0b98be-fdaf-40cc-a953-cc4091c838e1@217.154.218.42:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#IP_CF
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&path=/#IP_CF
 vless://TELEGRAM-CONFiGLiNE-25@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=googoolimagooli.com&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE</code><br/>vless://TELEGRAM-CONFiGLiNE-27@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=injadide.global.ssl.fastly.net&type=xhttp#IP_CF
 %5B%F0%9F%87%A9%F0%9F%87%AA%5D%40configLINE%282%29</code><br/>vless://TELEGRAM-CONFiGLiNE-28@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=telegramconfigline.global.ssl.fastly.net&type=xhttp#IP_CF
