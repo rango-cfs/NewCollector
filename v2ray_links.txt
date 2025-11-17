@@ -1,6 +1,5 @@
 VLESS Link:
 vless://02529660-52bf-4896-951a-1857c88d1dba@164.92.143.135:47542?security=reality&encryption=none&sni=zula.ir&fp=chrome&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&sid=7a6d1a&spx=/&type=grpc&path=/#IP_CF
-vless://02529660-52bf-4896-951a-1857c88d1dba@164.92.143.135:47542?security=reality&encryption=none&sni=zula.ir&fp=chrome&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&sid=7a6d1a&spx=/&type=grpc&path=/#IP_CF
 vless://06a0f312-d5a1-4a47-baef-91f367eefc8b@traxex.fonixapp.org:30295?security=reality&encryption=none&pbk=ytFEE1Ae7cboXEsIhJt5ry8qv2hGZ41jAWyGhHjZXVo&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=groww.in&sid=9d6aa524#IP_CF
 vless://02529660-52bf-4896-951a-1857c88d1dba@164.92.143.135:47542?security=reality&encryption=none&sni=zula.ir&fp=chrome&pbk=krsHuR6-NfPzTvW8uE9b_Xbjj-48yI91kLqhx4tWPUg&sid=7a6d1a&spx=/&type=grpc&path=/#IP_CF
 vless://TELEGRAM-CONFiGLiNE-27@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=injadide.global.ssl.fastly.net&type=xhttp#IP_CF
