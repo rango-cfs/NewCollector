@@ -1,7 +1,5 @@
 VLESS Link:
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none#IP_CF
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc#IP_CF
-vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&encryption=none#IP_CF
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?type=tcp&path=/#IP_CF
 vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@54.38.137.111:2053?path=/&security=tls&encryption=none&fp=chrome&type=ws#IP_CF
 vless://0507fbcd-b983-43a7-8e1d-2c561960ad4f@4d41-b510-fc35f2d7ecd7.664.qzz.io:443?security=tls&encryption=none&sni=4d41-B510-Fc35f2D7EcD7.664.QzZ.IO&alpn=http/1.1&fp=chrome&type=ws&host=4d41-B510-FC35F2D7ecd7.664.Qzz.io&path=/a0XhDU2Cxr9noOhn#IP_CF
