@@ -1,6 +1,5 @@
 VLESS Link:
 vless://12345678-1234-1234-1234-123456789123@185.176.24.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&type=ws&sni=vless.hubp.de#IP_CF
-vless://12345678-1234-1234-1234-123456789123@185.176.24.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&type=ws&sni=vless.hubp.de#IP_CF
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?type=ws&encryption=none&path=/#IP_CF
 vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#IP_CF
 vless://TELEGRAM-CONFiGLiNE-37@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=googoolimagooli.com&type=xhttp#IP_CF
