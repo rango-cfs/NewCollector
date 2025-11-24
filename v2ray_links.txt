@@ -1,7 +1,4 @@
 VLESS Link:
-vless://006f752c-42fe-41dd-a224-e2f7c48b72a9@de.shvurgceo.online:14357?security=reality&encryption=none&pbk=DvKMFkm82Jkp6Jk_7pXYb0fMXq1MsLMNxDeQfcCSbEA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=ab12cd34#IP_CF
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&path=/#IP_CF
-vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
 vless://0930fe32-e429-4f37-b8ec-92ac52b40f6e@69.28.82.253:443?path=/Free-VPN-CF-Geo-Project/69.28.82.253=443&security=tls&encryption=none&host=joss.gpj1.web.id&fp=randomized&type=ws&sni=joss.gpj1.web.id#IP_CF
 vless://03a8d504-d0a9-4418-aec4-59048b6016d4@185.113.10.197:46841?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
