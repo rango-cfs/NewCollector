@@ -1,5 +1,4 @@
 VLESS Link:
-vless://03a8d504-d0a9-4418-aec4-59048b6016d4@185.113.10.197:46841?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
 vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#IP_CF
 vless://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?type=tcp&encryption=none#IP_CF
