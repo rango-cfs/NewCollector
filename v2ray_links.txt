@@ -1,5 +1,4 @@
 VLESS Link:
-vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#IP_CF
 vless://0e11d8b3-ac1d-4ddd-8cbb-6a53c2110fc9@www.visa.com.sg:2052?path=/?ed=2560&security=none&encryption=none&host=e7dysoxcjonk-a0wbdag5-v3.e7dysoxcjonk.workers.dev&fp=randomized&type=ws#IP_CF
 vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#IP_CF
 vless://0e11d8b3-ac1d-4ddd-8cbb-6a53c2110fc9@www.visa.com.sg:2052?path=/?ed=2560&security=none&encryption=none&host=e7dysoxcjonk-a0wbdag5-v3.e7dysoxcjonk.workers.dev&fp=randomized&type=ws#IP_CF
