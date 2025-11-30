@@ -1,5 +1,4 @@
 VLESS Link:
-vless://08b833ee-fc0c-4ca1-9a09-be99c42f2f29@5.59.249.67:54441?security=reality&encryption=none&pbk=a3c7kvWAW2BPh3uTTqaNCY1bLN5zcfVYz5HhXxfZlic&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=a0.awsstatic.com&sid=b62359fb#IP_CF
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc#IP_CF
 vless://09e6b54d-ae00-47be-b534-cf4e74b9415f@91.107.141.33:41850?security=none&encryption=none&type=ws&path=/Telegram----@armanstore2--------Telegram----@armanstore2--------Telegram----@armanstore2--------Telegram----@armanstore2--------Telegram----@armanstore2--------Telegram----@armanstore2--------Telegram----@armanstore2--------Telegram----@armanstore2--------#IP_CF
 vless://05c0a076-9ebc-42e5-8d9b-22074d5036a6@m85a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#IP_CF
