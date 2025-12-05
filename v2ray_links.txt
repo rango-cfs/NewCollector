@@ -1,5 +1,4 @@
 VLESS Link:
-vless://04d63096-ae84-4aa0-a7a1-0b5efd56a2c7@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=639003338903096058.panamera-amsis.info&type=ws&host=639003338903096058.panamera-amsis.info&path=/lmkgbaws#IP_CF
 vless://00cf509a-82df-4028-931d-9570e3c04132@m46a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#IP_CF
 vless://00cf509a-82df-4028-931d-9570e3c04132@m46a.vip784.com:33801?security=none&type=tcp&headerType=http&path=/&host=varzesh3.ir#IP_CF
 vless://01a6e691-b436-40da-bc19-f379923c0f6e@usaa.fastlynew.hosting-ip.com:80?path=/&security=none&encryption=none&host=mojhsjd.global.ssl.fastly.net&type=ws#IP_CF
