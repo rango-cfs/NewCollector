@@ -1,5 +1,4 @@
 VLESS Link:
-vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws#IP_CF
 vless://12345678-1234-1234-1234-123456789123@188.164.248.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#IP_CF
 vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws#IP_CF
 vless://097712e8-666a-42e2-aebf-c03d597d8482@cosmin.ns.cloudflare.com:443?path=/mcqvlfws#IP_CF
