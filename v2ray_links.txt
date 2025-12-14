@@ -1,7 +1,4 @@
 VLESS Link:
-vless://026d15a6-0b97-4883-a229-ec4325afb0de@www.speedtest.net:80?path=/eyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=none&encryption=none&host=023.electrocellco-cf-023.workers.dev&type=ws#IP_CF
-vless://0166cc9f-f7d0-4225-8dd8-3f2d512f8824@graygoat.fonixapp.org:2083?security=reality&encryption=none&pbk=Nt8aT_cKoHYHQWkoAjVgQG3SIsU70hd2nMnVq7pTDzw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients2.google.com&sid=95edb96d#IP_CF
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?type=ws&encryption=none&host=redlabell.info&path=/aafeuws&security=tls&sni=redlabell.info&allowInsecure=1#IP_CF
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?path=/aafeuws&security=tls&encryption=none&insecure=0&host=redlabell.info&type=ws&allowInsecure=0&sni=redlabell.info#IP_CF
 vless://0166cc9f-f7d0-4225-8dd8-3f2d512f8824@graygoat.fonixapp.org:2083?security=reality&encryption=none&pbk=Nt8aT_cKoHYHQWkoAjVgQG3SIsU70hd2nMnVq7pTDzw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients2.google.com&sid=95edb96d#IP_CF
 vless://0267c264-2d80-4eec-fc61-6a77e3e2fa93@128.140.14.218:123?security=none&encryption=none&headerType=none&type=tcp#IP_CF
