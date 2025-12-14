@@ -1,5 +1,4 @@
 VLESS Link:
-vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?encryption=none&security=tls&sni=redlabell.info&allowInsecure=1&type=ws&path=/aafeuws#IP_CF
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@172.64.33.91:443?path=/aafeuws&security=tls&encryption=none&insecure=0&host=redlabell.info&type=ws&allowInsecure=0&sni=redlabell.info#IP_CF
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?type=ws&encryption=none&host=redlabell.info&path=/aafeuws&security=tls&sni=redlabell.info&allowInsecure=1#IP_CF
 vless://02e46039-200d-4ae4-ac90-b0d619f72034@clyde.ns.cloudflare.com:443?type=ws&encryption=none&host=redlabell.info&path=/aafeuws&security=tls&sni=redlabell.info&allowInsecure=1#IP_CF
