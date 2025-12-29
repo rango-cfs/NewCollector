@@ -1,5 +1,4 @@
 VLESS Link:
-vless://09d4b6ae-f95d-43f1-9968-7ee514cafd9b@31.97.46.156:35205?type=tcp&encryption=none&security=none#IP_CF
 vless://0a21d713-6e6f-4274-8b84-464019325513@208.69.78.5:443?type=grpc&encryption=none&serviceName=ecb7f0f50489f81cd1983a56&sni=www.microsoft.com&fp=chrome&security=reality&pbk=vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA&sid=9c8d68d581a08ea5#IP_CF
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@104.21.23.95:443?type=ws&encryption=none&host=us7.candyfans.win&path=/jqliws&security=tls&sni=us7.candyfans.win&allowInsecure=1#IP_CF
 vless://0062f09d-9579-4722-9bd3-d5438970d54a@104.21.23.95:443?type=ws&encryption=none&host=us7.candyfans.win&path=/jqliws&security=tls&sni=us7.candyfans.win&allowInsecure=1#IP_CF
