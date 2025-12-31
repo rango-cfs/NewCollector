@@ -1,6 +1,5 @@
 VLESS Link:
 vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?encryption=none&packetEncoding=xudp#IP_CF
-vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?encryption=none&packetEncoding=xudp#IP_CF
 vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=chrome&pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&sid=69f3807321&type=tcp&headerType=none#IP_CF
 vless://TELEGRAM-CONFiGLiNE-99@de.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=&encryption=none&host=barakanal5.global.ssl.fastly.net&type=xhttp#IP_CF
 %5B%F0%9F%87%A8%F0%9F%87%AD%5D%40configLINE%283%29</code><br/>vless://TELEGRAM-CONFiGLiNE-100@ip.fastlynew.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D2048&security=none&encryption=none&host=barakanal2.global.ssl.fastly.net&type=xhttp#IP_CF
