@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#IP_CF
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&sid=c2fa&type=tcp&headerType=none#IP_CF
 vless://011fb39c-15ed-4700-a338-67497533f94e@217.16.24.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&fp=chrome&pbk=wECjZXPpzOIAcE2my_sCH2zluFB4p9a3jpTugXhJ7gI&sid=69f3807321&type=tcp&headerType=none#IP_CF
 vless://01b5f5f2-f82a-42e0-9593-5b1b8869b9ca@37.59.112.73:8442?encryption=none&security=none&type=tcp&headerType=none#IP_CF
