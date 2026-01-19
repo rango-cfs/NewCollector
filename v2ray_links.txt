@@ -1,6 +1,4 @@
 VLESS Link:
-vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80?type=ws&encryption=none&host=visvuev-272526281716252527717252.poshakhowdy.ir.&path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net#IP_CF
-vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#IP_CF
 vless://00848633-a682-45b0-95ca-6012ccb7121c@bshs-187271-isbshs-18181717.bawqrataaui.ir:1501?security=reality&type=tcp&sni=docker.com&fp=chrome&sid=ed87c1018eed&pbk=BMlkiqYu98c4-u_7G1c9W744OA8A9yi-i75A9VlDczc&encryption=none#IP_CF
 vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80?type=ws&encryption=none&host=visvuev-272526281716252527717252.poshakhowdy.ir.&path=/www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net#IP_CF
 vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?path=/&security=none&encryption=none&host=fangbinxingnmsl.pusytroller.cf&type=ws#IP_CF
