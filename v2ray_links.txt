@@ -1,6 +1,7 @@
 VLESS Link:
 vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#IP_CF
 vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.109.47:1488?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#IP_CF
+vless://00000000-0000-4000-8000-000000000000@2.59.134.242:1002?encryption=none&security=tls&sni=ennyfe.zipgd3vx91o.ddns-ip.net&type=ws&host=ennyfe.zipgd3vx91o.ddns-ip.net&path=/@Marisa_kristi#IP_CF
 vless://2f60be6f-be0c-48b4-9772-b56f42b51ba1@stf8bnl5r1c0vm.sheraitonldayh.lat:2052?mode=gun&security=reality&encryption=none&pbk=TpEz8VPxZxx1E-fckWTvTB9U4v7ZFzW65WAs2OmkbDA&fp=chrome&type=grpc&sni=web.eitaa.com&sid=830b34f52730#IP_CF
 %40Tunder_vpn<br/><br/>vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@185.235.241.58:443?path=%2Fhormoz&security=tls&encryption=none&fp=chrome&type=ws#IP_CF
 %40Tunder_vpn<br/><br/>vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=digikalaa.dpdns.org&fp=chrome&type=ws&sni=DiGIkALaA.dpdns.ORG#IP_CF
