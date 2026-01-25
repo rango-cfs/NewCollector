@@ -1,5 +1,4 @@
 VLESS Link:
-vless://%40SEGVPN@gcre.segstar.info:10100?security=reality&encryption=none&pbk=2zN5MhusgST2q3NBD1gglc6xTaoTPP9Tmjb9k374QCw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#IP_CF
 vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095?type=ws&encryption=none&host=fangbinxingnmsl.pusytroller.cf&path=/#IP_CF
 vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@8.6.112.0:443?path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=udvsusgsh-272625262626.poshakhowdy.ir&fp=chrome&type=ws&allowInsecure=0&sni=udvsusgsh-272625262626.poshakhowdy.ir#IP_CF
 vless://00000000-0000-4000-8000-000000000000@124.243.132.106:23333?encryption=none&security=tls&sni=mikuyo.bpd67081tsq.ddns-ip.net&type=ws&host=mikuyo.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristi#IP_CF
