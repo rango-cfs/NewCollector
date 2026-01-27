@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00848633-a682-45b0-95ca-6012ccb7121c@bshs-187271-isbshs-18181717.bawqrataaui.ir:1501?security=reality&type=tcp&sni=docker.com&fp=chrome&sid=ed87c1018eed&pbk=BMlkiqYu98c4-u_7G1c9W744OA8A9yi-i75A9VlDczc&encryption=none#IP_CF
 vless://0044dfce-62ac-4734-919a-fcbf79e9ec12@100niggavs100.mrpixanos.ir:42542?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#IP_CF
 vless://00848633-a682-45b0-95ca-6012ccb7121c@bshs-187271-isbshs-18181717.bawqrataaui.ir:1501?security=reality&type=tcp&sni=docker.com&fp=chrome&sid=ed87c1018eed&pbk=BMlkiqYu98c4-u_7G1c9W744OA8A9yi-i75A9VlDczc&encryption=none#IP_CF
 vless://41384a34-af16-4bf9-aca5-e808f1e723ae@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertfn1.global.ssl.fastly.net&type=ws#IP_CF
