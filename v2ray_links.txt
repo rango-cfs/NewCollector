@@ -7,6 +7,7 @@ vless://02b320ce-09f8-4cb5-9c46-9024f5585881@free1.barayekhudam.ir:2255?type=tcp
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?encryption=none&host=www.speedtest.net&headerType=http&type=tcp#IP_CF
 vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?type=ws&encryption=none&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#IP_CF
+vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@vip2.kaixincloud.top:8880?type=ws&encryption=none&host=r-one.lat&path=/eyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0?ed=2560?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#IP_CF
 
 VMESS Link:
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoienVsYS5pciIsInBvcnQiOjgwODAsImlkIjoibmFzbmV0IiwiYWlkIjoiMCIsInNjeSI6ImNoYWNoYTIwLXBvbHkxMzA1IiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4/ZWQ9MjU2MCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjMiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJuYW1lIjoiXHVkODNjXHVkZmY0XHUyMDBkU2hpbmUifQ==
