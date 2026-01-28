@@ -1,5 +1,4 @@
 VLESS Link:
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?type=ws&encryption=none&host=netherlands.vipserver14.workers.dev&path=/?ed=2048#IP_CF
 vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.86:1488?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#IP_CF
 vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@vip2.kaixincloud.top:8880?type=ws&encryption=none&host=r-one.lat&path=/eyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0?ed=2560?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#IP_CF
 vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.86:1488?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#IP_CF
