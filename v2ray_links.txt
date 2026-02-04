@@ -1,11 +1,6 @@
 VLESS Link:
-vless://015e6f7b-c6df-470a-a22d-62b8b9947a4d@77.42.77.66:32323?security=none&encryption=none&headerType=none&type=tcp#IP_CF
-vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@185.117.0.185:651?mode=gun&security=reality&encryption=none&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&sni=www.stackoverflow.com&sid=86ba053c74aaba8e#IP_CF
-vless://048e1f57-7fb0-4d02-b0d1-45c13bd84a84@fast.swetofor.com:80?mode=auto&path=/&security=none&encryption=none&host=v2ray_fs_v2ray_fs_v2ray_fs_v2ray_fs.global.ssl.fastly.net&type=xhttp#IP_CF
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc#IP_CF
-vless://2eb23120-ce3a-4257-91ba-b221eb288af6@nv3.napsternet3.com:51071?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
-%40Tunder_vpn<br/><br/>https://danesh1118.github.io/Npvttsodjieheoshwuwhdoehowiwheoeheeh38ehwiwhwohwoej86e89/<br/><br/>vless://ae67d9e7-d317-48a4-a1c8-a7ff63efd99d@nv5.napsternet5.com:15015?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/>پایدvless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#IP_CF
+vless://396c904b-4b62-4334-b793-ee25fc0c61cc@188.114.96.3:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#IP_CF
 %40Tunder_vpn<br/><br/>vless://6618b577-b801-4f0c-811a-ac83c70639dc@niimb.aparat-movies-download.ir:42555?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#IP_CF
 %40Tunder_vpn<br/><br/>vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@cf.narton.ir:8443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hitgram.ir&fp=chrome&type=ws&allowInsecure=0&sni=hitgram.ir#IP_CF
 %40Tunder_vpn<br/><br/>vless://396c904b-4b62-4334-b793-ee25fc0c61cc@162.159.152.4:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#IP_CF
@@ -66,8 +61,19 @@ r%E2%99%A1ya%40Tunder_vpn</code></blockquote><br/><br/>ایرانvless://83f0364
 %40Tunder_vpn<br/><br/>trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#IP_CF
 %40Tunder_vpn<br/><br/>trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#IP_CF
 %40Tunder_vpn<br/><br/>vless://486169a3-ce5f-4d93-8d01-f619d4443e5d@cp.so.rezzip.com:443?path=%3Fed%3D2560&security=tls&alpn=h2&encryption=none&insecure=0&host=pandura.lat&fp=firefox&type=ws&allowInsecure=0&sni=pandura.lat#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/>پاید
+%40Tunder_vpn</code></blockquote><br/><br/>پایدvless://49d97f86-4589-4570-8e4b-794b49556e42@194.113.226.197:55555?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#IP_CF
+%40Tunder_vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380#IP_CF
+%40Tunder_vpn<br/><br/>trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#IP_CF
+%40Tunder_vpn<br/><br/>trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#IP_CF
+%40Tunder_vpn<br/><br/>vless://0c0870b0-a253-4861-84b6-e6ce6777e97c@fa.faraz360.ir:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#IP_CF
+%40Tunder_vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMDQ3MDM2YzQ1NTk2NjA1@57.129.94.79:11208#IP_CF
+%40Tunder_vpn<br/><br/>vless://957d0930-8730-4923-b58c-6c0d640418bd@vipde6.persianhostnet.ir:9093?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#IP_CF
+%40Tunder_vpn<br/><br/>vless://3c7b7ec9-e49a-440f-aee7-1f611d0e8c85@cdnjs.com:443?path=%2Fhsnoryws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=639057258083986963.camry-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258083986963.camry-perma.info#IP_CF
+%40Tunder_vpn<br/><br/>vless://3e4cf35f-ce6a-4275-feae-b69f03bf3a47@185.231.180.136:39846?security=none&encryption=none&headerType=none&type=tcp#IP_CF
+%40Tunder_vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IP_CF
+%40Tunder_vpn<br/><br/>vless://02834cd6-b8b7-4a0e-90c7-02bc0f3d3a33@ch-alien.khodeimobile.com:8880?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=happ.mobilezahra.com&type=xhttp#IP_CF
+%40Tunder_vpn</code></blockquote><br/><br/>
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjguMTY3LjE4MS4yMjAiLCJwb3J0IjoxMDAxMCwiaWQiOiJiNGY3YzMyNi01YzRmLTRlMTktODNkNS1iZmE0M2I0NjEwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJuYW1lIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjIxLjY5LjQ0IiwicG9ydCI6ODA4MCwiaWQiOiJuYXNuZXQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiXC9uYXNuZXRcL2NkbiIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsIm5hbWUiOiJAdjJyYXlzX2hhIDUzMzgifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjguMTY3LjE4MS4yMjAiLCJwb3J0IjoxMDA4NiwiaWQiOiIzYzNiY2Y0ZS05NmIwLTRmMDUtOGU0Yy0xMzQ4NWEwYzVjNjYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTExNC0wNCJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNjguMTY3LjE4MS4yMjAiLCJwb3J0IjoxMDAxMCwiaWQiOiJiNGY3YzMyNi01YzRmLTRlMTktODNkNS1iZmE0M2I0NjEwMDIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiJcLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJuYW1lIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFx1N2Y4ZVx1NTZmZCBWMkNST1NTLkNPTSJ9
