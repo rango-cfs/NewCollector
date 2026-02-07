@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?path=/&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#IP_CF
 vless://00c01f55-e31a-41cd-872b-938cda90afc3@89.169.128.105:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=f4b4a6365558ea2e#IP_CF
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF
 vless://00c01f55-e31a-41cd-872b-938cda90afc3@212.233.73.212:443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=f4b4a6365558ea2e#IP_CF
@@ -81,6 +80,6 @@ vless://TELEGRAM-NUFiLTER@151.101.9.80:80?mode=packet-up&path=%2FTELEGRAM-NUFiLT
 @Tunder_vpn<br/><br/>vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#IP_CF
 @Tunder_vpn</code></blockquote><br/><br/>
 VMESS Link:
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoidHIxLXNtYXJ0LmFkZWxwaW5nLmNvbSIsInBvcnQiOjgwLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiLS0tIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3QHYyX21vZF9zaG9wIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMjEyLjY0LjIwMi43MyIsInBvcnQiOjQ0MywiaWQiOiJjMjhiNWMwNi1iNzZhLTQwNjEtOTBlZS1mNzlmZTRiMjA3OTQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwiaG9zdCI6Ind3dy5nb29nbGUuY29tIiwicGF0aCI6Ilwvc3VwcG9ydGVkX2RvbWFpbnMiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTExOC0wMSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiampqay4xOTEyNjgueHl6IiwicG9ydCI6NDQzLCJpZCI6IjVjY2NiNGRhLThhZWUtNGIwMS1iZTg0LTIwNTYyNjVlNTJkYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJqamprLjE5MTI2OC54eXoiLCJwYXRoIjoiXC9Bd1VKeUdoOVltNnZWemczNUE2dWV5eVpuV2QiLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiVk0tMTExNS0wMSJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDcuMjUzLjE5Ny4yNiIsInBvcnQiOjEyMDU2LCJpZCI6ImRkN2JlN2YxLTM4ZmYtNDVlNi1mMWU1LWIyMGMyMTkwZjUyNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJuYW1lIjoiWzg5MzQ5XSAtIFRlbGVncmFtIDogQFYyQWxsIiwidGxzIjoibm9uZSJ9
