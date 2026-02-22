@@ -1,5 +1,4 @@
 VLESS Link:
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#IP_CF
 vless://d3b415a4-1cbe-487f-9831-4474583e26a9@85.192.40.174:205?security=reality&encryption=none&pbk=huGtAltZpf011TYjX6b6-FNPxun34WNIp2paaOY1TG0&headerType=none&fp=firefox&type=tcp&sni=www.tgju.org&sid=76645510056dbfd1#IP_CF
