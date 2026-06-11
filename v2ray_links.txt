@@ -140,5 +140,8 @@ server%F0%9F%87%A9%F0%9F%87%AAhttps%3A%2F%2Ft.me%2Tunder_vpn</pre><br/>vless://0
 %40Tunder_vpn<br/><br/>vless://f552a78e-400c-4332-8265-8e5da1c21eeb@de-dp-01.com:8443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=5be97fb85093a3a9#IP_CF
 %40Tunder_vpn<br/><br/>vless://b56c38ec-ab57-4d1b-ac72-9491be4845bf@185.200.179.85:49712?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 %40Tunder_vpn<br/><br/>vless://7b241232-208d-4d36-857e-913f91b044f4@193.111.248.101:443?security=tls&encryption=none&insecure=0&headerType=none&fp=edge&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6a20f558.noooo.win#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/>
+%40Tunder_vpn</code></blockquote><br/><br/>vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=08000000#IP_CF
+Tel-%40Tunder_vpn%F0%9F%AB%92%201<br/>vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?security=reality&encryption=none&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=28a059440d3d5ba1#IP_CF
+Tel-%40Tunder_vpn%F0%9F%AB%92%202<br/>vless://10a6b923-e349-4594-92bb-d81a6245aaec@104.26.0.7:443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&host=sertraline.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=sertraline.adaspoloandco.com#IP_CF
+Tel-%40Tunder_vpn%F0%9F%AB%92%203</pre><br/>
 VMESS Link:
