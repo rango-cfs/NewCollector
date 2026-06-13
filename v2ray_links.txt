@@ -129,6 +129,5 @@ All-%40Tunder_vpn--10</code></blockquote><br/><br/><i>سرvless://2d998f70-fa42-
 %40Tunder_vpn<br/><br/>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.0.1:80?path=%2F&security=none&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#IP_CF
 %40Tunder_vpn<br/><br/>vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.132:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn7-39.vk-cdnvideo.com#IP_CF
 %40Tunder_vpn<br/><br/>vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/>vless://df0680ca-e43c-498d-ed86-8e196eedd012ijnqibqygqo98710@138.199.175.204:8880?type=grpc&mode=gun&security=none#IP_CF
-&v2ray</a></div></div><d
+%40Tunder_vpn</code></blockquote><br/><br/>
 VMESS Link:
