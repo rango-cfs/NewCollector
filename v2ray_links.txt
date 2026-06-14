@@ -1,13 +1,5 @@
 VLESS Link:
-vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.137:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#IP_CF
-%40Tunder_vpn<br/>vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.133:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#IP_CF
-1%F0%9F%8E%96%40Tunder_vpn%F0%9F%8F%B9<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSkhzSTdmQTN3RlVpYXJK@98.71.82.228:443#IP_CF
-7%F0%9F%8E%96%40Tunder_vpn%F0%9F%8F%B9<br/>trojan://mitivpn@188.114.97.6:443?path=https%3A%2F%2Fchatgpt.com&security=tls&alpn=http%2F1.1&insecure=0&host=nl.e-mitivpn.global.ssl.b5r.ir&fp=chrome&type=ws&allowInsecure=0&sni=mitivpn.dsech.ss.ssandfdsgx.gloteefghedcal.ssl.fastly.net.b5r.ir#IP_CF
-%40Tunder_vpn<br/>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@pishdad.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#IP_CF
-%40Tunder_vpn<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphbTc5OWN5MkF3QldqdE5l@98.71.82.228:443#IP_CF
-5%F0%9F%8E%96%40Tunder_vpn%F0%9F%8F%B9<br/>vless://0058c215-ab1e-400c-a403-b5b2fda7e846@www.speedtest.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#IP_CF
-7%F0%9F%8E%96%40Tunder_vpn%F0%9F%8E%81<br/>vless://0058c215-ab1e-400c-a403-b5b2fda7e846@104.16.0.0:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#IP_CF
-2%F0%9F%8E%96%40Tunder_vpn%E2%99%BE%EF%B8%8F</code></blockquote><br/><br/><b>پایدvless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#IP_CF
+vless://3f3bb5cc-da8b-4551-8b76-ba223f1a5255@18.192.50.101:443?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 %40Tunder_vpn<br/><br/>vless://03bc875d-0d8e-49b6-9094-89a8159e65ee@91.107.191.12:29376?security=none&encryption=none&headerType=none&type=tcp#IP_CF
 %40Tunder_vpn<br/><br/>vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@www.speedtest.org:8080?path=%2F&security=none&encryption=none&host=tr-cd.sublink-vip2.com&type=ws#IP_CF
 %40Tunder_vpn<br/><br/>vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@108.162.192.75:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#IP_CF
@@ -152,5 +144,10 @@ All--%40Tunder_vpn--16</code></blockquote><br/><br/><b>vless://9c8bf6ca-5b56-4f0
 %40Tunder_vpn<br/><br/>vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.163:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#IP_CF
 %40Tunder_vpn<br/><br/>vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@188.114.97.6:443?path=%2Ftsghdws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#IP_CF
 %40Tunder_vpn<br/><br/>vless://e73df646-1f62-41bf-8c50-653497d603d0@sc-thenetherlands2.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=SC-TheNetherlands2.09vpn.com&type=ws#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/>
+%40Tunder_vpn</code></blockquote><br/><br/>vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@77.74.123.168:8443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn3-87.vk-cdnvideo.com#IP_CF
+%40Tunder_vpn%20%C2%B9<br/><br/>vless://931729a8-3c20-4841-89a1-f18dc9ce0a6f@46.229.243.74:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn7-09.vk-cdnvideo.com#IP_CF
+%40Tunder_vpn%20%C2%B2<br/><br/>vless://037b730a-ea28-5191-ad7c-3424be5efe2e@46.246.97.218:2052?path=%2Fvless&security=none&encryption=none&type=ws#IP_CF
+%40Tunder_vpn%20%C2%B3<br/><br/>vless://d39664df-5bc0-4f49-9894-8f03b4150082@germany-vip.soft26.ir:8443?mode=auto&path=%2F&security=reality&encryption=none&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=6f3192#IP_CF
+%40Tunder_vpn%20%E2%81%B4<br/><br/>vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@141.193.213.10:443?path=%2Ftsghdws&security=tls&encryption=none&insecure=0&host=octopusss4.com&fp=chrome&type=ws&allowInsecure=0&sni=octopusss4.com#IP_CF
+%40Tunder_vpn%20%E2%81%B5</code></blockquote><br/><br/>
 VMESS Link:
