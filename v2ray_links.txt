@@ -191,5 +191,12 @@ vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.16.72.2:443?path=%2Fproxyip&sec
 %40Tunder_vpn<br/><br/>vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@mypanel.unixzone.us:12068?path=%2F&security=none&encryption=none&type=ws#IP_CF
 %40Tunder_vpn<br/><br/>vless://729a43e6-6926-4c27-92f6-b70a67471afc@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#IP_CF
 %40Tunder_vpn<br/><br/>vless://87a4fec0-04c5-4705-b735-388f92ff01c2@Jslr.milkabebar.ir:50567?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9af7c9c0334675be#IP_CF
-%40Tunder_vpn</code></blockquote><br/><br/><b>کانف
+%40Tunder_vpn</code></blockquote><br/><br/><b>کانفvless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3F&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#IP_CF
+%40Tunder_vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJNlJzU1VJWXJLSHBJMjZK@20.223.152.73:443#IP_CF
+%40Tunder_vpn<br/><br/>vless://1642d104-816a-4a12-afd3-d54f7e2e0393@chatgpt.com:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nl.hknetapp.com&type=ws&allowInsecure=0&sni=nl.hknetapp.com#IP_CF
+%40Tunder_vpn<br/><br/>vless://738f170e-e674-7991-9902-f182a8fa9b1c@fn4.sannest.ir:8443?security=reality&encryption=none&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=bd#IP_CF
+%40Tunder_vpn<br/><br/>vless://6bd5c6cc-a154-3110-350e-7ce3e52fb076@gerss.sannest.ir:8443?security=reality&encryption=none&pbk=DJ9B-OWkR4FwRvEfHpdAKqEasnRdVcZHoAaMueWEGWA&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=bd#IP_CF
+%40Tunder_vpn<br/><br/>vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#IP_CF
+%40Tunder_vpn<br/><br/>vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&host=%2F%3F&headerType=http&type=tcp#IP_CF
+%40Tunder_vpn</code></blockquote><br/><br/>
 VMESS Link:
