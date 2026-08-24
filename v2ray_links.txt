@@ -1,15 +1,5 @@
 VLESS Link:
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#IP_CF
-Tunder_Vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZW93OFllcWFGWTBza1YyOUdGMEdWVGIydkdyQjVBbw@195.231.87.172:103#IP_CF
-Tunder_Vpn<br/><br/>vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardmmmmkeje.vahidzhv.ir:5057?security=none&encryption=none&headerType=http&type=tcp#IP_CF
-Tunder_Vpn<br/><br/>ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@194.87.69.207:20998#IP_CF
-Tunder_Vpn<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#IP_CF
-Tunder_Vpn<br/><br/>vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd1.sobu.ir:5060?security=none&encryption=none&headerType=http&type=tcp#IP_CF
-Tunder_Vpn<br/><br/>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.162:10901#IP_CF
-Tunder_Vpn<br/><br/>vless://7715a37f-866a-4845-8c1c-4ee7d450ac96@pasarguardpanelmmd6.vahidzhv.ir:5064?security=none&encryption=none&headerType=http&type=tcp#IP_CF
-Tunder_Vpn<br/><br/>vless://b55dd203-630d-46a3-b506-c52ebcafa77c@154.222.9.98:443?security=reality&encryption=none&pbk=ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=8d3293f0066e129a#IP_CF
-Tunder_Vpn<br/><br/>ss://YWVzLTI1Ni1nY206cDdLYXdQNXB6SlJIV0k5cQ@107.170.34.46:443#IP_CF
-Tunder_Vpn</code></blockquote><br/><br/>vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#IP_CF
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@br1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#IP_CF
 %F0%9F%87%A7%F0%9F%87%B7%20direct<br/><br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@ca4.levikogjgfdd.ir:8388#IP_CF
 %F0%9F%87%A8%F0%9F%87%A6%20direct<br/><br/>vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@uk2.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=gb1.murhost.network&sid=84f9881951050a30#IP_CF
 %F0%9F%87%AC%F0%9F%87%A7%20direct<br/><br/>vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@fi1.levikogjgfdd.ir:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=fin2.freeinternat.com&sid=ff776ff77be48b88#IP_CF
