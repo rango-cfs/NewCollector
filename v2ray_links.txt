@@ -1,6 +1,5 @@
 VLESS Link:
-vless://4fe00c41-a1d0-4d98-8a05-cab09db9faaf@199.232.78.159:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&encryption=none&insecure=0&host=pane2.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#IP_CF
-%40NUFiLTER%F0%9F%87%B3%F0%9F%87%B1%2816%29</code><br/><br/>vless://4f6ae50d-c6e0-43e2-87e7-4a4217618a4c@66.33.22.219:32544?path=%2F&security=none&encryption=none&type=ws#IP_CF
+vless://4f6ae50d-c6e0-43e2-87e7-4a4217618a4c@66.33.22.219:32544?path=%2F&security=none&encryption=none&type=ws#IP_CF
 Tunder_Vpn<br/><br/>vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087?path=%2Ffd5ba98a3970&security=none&encryption=none&host=82.24.203.20&type=ws#IP_CF
 Tunder_Vpn<br/><br/>vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087?path=%2F29c8fed7ca22&security=none&encryption=none&type=ws#IP_CF
 Tunder_Vpn<br/><br/>vless://974f2c7e-a292-4207-8315-ef4151bdca41@147.45.148.6:443?security=reality&encryption=none&pbk=ZJlfiMh4ebjrTl2_kwAk_zXMAaCiwNS7yMd5XzlUgmI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yoy-api.bachidze.com#IP_CF
