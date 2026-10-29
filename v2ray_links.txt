@@ -1,11 +1,5 @@
 VLESS Link:
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22222?security=&encryption=none&headerType=none&type=tcp#IP_CF
-%40Tunder_Vpn%F0%9F%A7%90%206<br/>vless://261160d5-0343-4b85-8c28-3d40dd681559@103.91.147.212:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.ozon.ru#IP_CF
-%40Tunder_Vpn%F0%9F%A7%90%205<br/>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryption=none&headerType=none&type=tcp#IP_CF
-%40Tunder_Vpn%F0%9F%A7%90%204<br/>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22223?security=&encryption=none&headerType=none&type=tcp#IP_CF
-%40Tunder_Vpn%F0%9F%A7%90%203<br/>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22224?security=&encryption=none&headerType=none&type=tcp#IP_CF
-%40Tunder_Vpn%F0%9F%A7%90%202<br/>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.252.7:22222?security=&encryption=none&headerType=none&type=tcp#IP_CF
-%40Tunder_Vpn%F0%9F%A7%90%201</code></blockquote><br/><br/>vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#IP_CF
+vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#IP_CF
 %40Tunder_Vpn%F0%9F%9B%91%201<br/>vless://d65cc14c-f53f-4fe2-b262-97856601319c@82.39.171.12:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#IP_CF
 %40Tunder_Vpn%F0%9F%9B%91%202<br/>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#IP_CF
 %40Tunder_Vpn%F0%9F%9B%91%203<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#IP_CF
@@ -141,7 +135,12 @@ Tel-%40Tunder_Vpn%F0%9F%90%BF%EF%B8%8F%206</code></blockquote><br/><br/>vless://
 %40Tunder_Vpn%F0%9F%A5%83%209<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSm85Z1RlczduSTNBbHhp@20.164.216.117:443#IP_CF
 %40Tunder_Vpn%F0%9F%A5%83%2010<br/>vless://ab9e2cf5-b5f5-45d1-bddf-8ea9b6fcc48f@206.1.101.85:42654?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&ech=AF%2F%2BDQBbAAAgACBb8JqRW2W15k7NBWlU1CsW%2BVWNy8KlDwgiz446okqPIgAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADAAwyMDYuMS4xMDEuODUAAA%3D%3D&type=ws&allowInsecure=0&sni=206.1.101.85#IP_CF
 %40Tunder_Vpn%F0%9F%A5%83%2011<br/>vless://6c713691-3ca2-002b-ad25-113d1bed6b03@140.225.199.136:8443?mode=gun&security=reality&encryption=none&pbk=86EUYgrS7mazQ-GsiMnStyHSx9AlG8B_-KgXluNdWXI&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=strm.yandex.net&sid=d3ab13e9c496c399#IP_CF
-%40Tunder_Vpn%F0%9F%A5%83%2012</code></blockquote><br/><br/>
+%40Tunder_Vpn%F0%9F%A5%83%2012</code></blockquote><br/><br/>vless://42a64b9a-ab79-4094-8656-30366a7c2ea3@pl.peregrine-sub.net:1443?security=reality&encryption=none&pbk=PUj1la__ltNjv_ASE5n4HJY7GiRs--N-0aYhkcAApCI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.peregrine-sub.net&sid=7b6803a79bba5c52#IP_CF
+Tel-%40Tunder_Vpn%F0%9F%8F%A2%205<br/>vless://b9bfa54d-bc44-4592-a6d6-89a9665d286f@edge.bookmai.com:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mother-earth.fyi#IP_CF
+Tel-%40Tunder_Vpn%F0%9F%8F%A2%204<br/>vless://b1da2601-ff93-46d6-af87-04af3f541fde@server15.duckvpn.app:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-16.userapi.com#IP_CF
+Tel-%40Tunder_Vpn%F0%9F%8F%A2%203<br/>ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@51.83.192.80:8388#IP_CF
+Tel-%40Tunder_Vpn%F0%9F%8F%A2%202<br/>vless://b1da2601-ff93-46d6-af87-04af3f541fde@5.180.181.113:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-19.userapi.com#IP_CF
+Tel-%40Tunder_Vpn%F0%9F%8F%A2%201</code></blockquote><br/><br/>
 VMESS Link:
 vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJUZWwtQFR1bmRlcl9WcG4gNeKcjCA1Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 br/>trojan://humanity@www.speedtest.net:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#Tel-%40Tunder_Vpn%F0%9F%8C%BF%204
