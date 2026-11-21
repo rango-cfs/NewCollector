@@ -1,8 +1,5 @@
 VLESS Link:
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sid=501ab3325b77e1ca#IP_CF
-%40Tunder_Vpn%F0%9F%9B%B5%203<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Wk1OVEdwUGwzOEFTbGJJMUVLT0JK@135.220.178.46:46303#IP_CF
-%40Tunder_Vpn%F0%9F%9B%B5%202<br/>vless://ce698f0c-a8ec-474a-b5d8-3be8032deeb8@146.103.118.189:443?path=%2F574ck-finland&security=tls&encryption=none&insecure=0&host=nl2.574ck.xyz&fp=firefox&type=ws&allowInsecure=0&sni=nl2.574ck.xyz#IP_CF
-%40Tunder_Vpn%F0%9F%9B%B5%201</code></blockquote><br/><br/>vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=copy_Shode_az_Chanel0111Net&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#IP_CF
+vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@185.189.45.195:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&host=copy_Shode_az_Chanel0111Net&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#IP_CF
 Tel-%40Tunder_Vpn%F0%9F%8C%9E%2010<br/>vless://dd5bed0b-ee77-481b-9f2c-250a632ddd9f@get.jarbook.net:443?security=reality&encryption=none&pbk=BIy6H-jndn24Ukyw83ML8LDB1HL8WLJmfCADEy8lzVs&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=get.jarbook.net&sid=c6f97313#IP_CF
 Tel-%40Tunder_Vpn%F0%9F%8C%9E9<br/>vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.30:443?security=reality&encryption=none&pbk=OQAbaaN0abHDcEOtiu5rpU_A4Op_gDbOzuAVlHplP3s&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=misty-harbor.cdn.cachefleet.com&sid=aa5294f481769382#IP_CF
 Tel-%40Tunder_Vpn%F0%9F%8C%9E%208<br/>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@198.244.202.215:19999#IP_CF
@@ -131,7 +128,11 @@ Tel-%40Tunder_Vpn%F0%9F%8D%9F%201</code></blockquote><br/><br/>vless://a30903dc-
 %40Tunder_Vpn%F0%9F%90%90%204<br/>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@38.91.100.39:19999#IP_CF
 %40Tunder_Vpn%F0%9F%90%90%203<br/>ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@135.148.42.13:8388#IP_CF
 %40Tunder_Vpn%F0%9F%90%90%202<br/>vless://7bd7c4aa-52c4-482c-bdcc-e7380fa6b5fe@193.233.89.130:8443?mode=gun&security=reality&encryption=none&pbk=xx8KWdR4HbVmvqPb0wRPAstBHGN2Uk99m7AF794_E3c&fp=firefox&type=grpc&serviceName=grpc&sni=g.play2go.gay#IP_CF
-%40Tunder_Vpn%F0%9F%90%90%201</code></blockquote><br/><br/>
+%40Tunder_Vpn%F0%9F%90%90%201</code></blockquote><br/><br/>vless://a1cf2f59-ffe0-4cb3-8c68-e6abf44726fc@104.222.183.180:443?security=reality&encryption=none&pbk=MYmnKEaJyfk1HrBaKg3AvYebp-sP3rZRNh9MnOcKgXY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=705f0a232571#IP_CF
+%40Tunder_Vpn%F0%9F%A4%97%204<br/>vless://2ae0670d-0bdf-409e-9a55-4e970252d378@37.235.247.81:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=6ba85179e30d4fc2#IP_CF
+%40Tunder_Vpn%F0%9F%A4%97%203<br/>ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@107.161.160.28:8388#IP_CF
+%40Tunder_Vpn%F0%9F%A4%97%202<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ2diVW5NYW9BZlNndkU4SUtkbkd1@77.221.132.206:24759#IP_CF
+%40Tunder_Vpn%20%F0%9F%A4%97%201</code></blockquote><br/><br/>
 VMESS Link:
 vmess://eyJhZGQiOiIxNTQuNDcuMTkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4bWZobHB5LmNvbSIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJAVHVuZGVyX1ZwbvCfjbogNyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 br/>ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@167.17.64.27:19999#%40Tunder_Vpn%F0%9F%8D%BA%206
